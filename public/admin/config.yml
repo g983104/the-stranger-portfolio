@@ -1,0 +1,236 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Decap CMS Configuration — THE STRANGER Portfolio
+# https://decapcms.org/docs/configuration-options/
+#
+# SETUP INSTRUCTIONS:
+#   1. Push this repository to GitHub.
+#   2. Go to GitHub → Settings → Developer Settings → OAuth Apps → New OAuth App.
+#      - Homepage URL:        https://YOUR_SITE.vercel.app
+#      - Callback URL:        https://YOUR_SITE.vercel.app/api/auth/callback/github
+#        (or use Netlify Identity if deploying on Netlify)
+#   3. Replace GITHUB_USERNAME/REPO_NAME below with your actual values.
+#   4. Deploy to Vercel / Netlify. The /admin page will become live.
+# ─────────────────────────────────────────────────────────────────────────────
+
+backend:
+  name: github
+  repo: GITHUB_USERNAME/the-stranger-portfolio   # ← replace with your repo
+  branch: main
+  base_url: https://sveltia-cms-auth.YOUR_CF_WORKER.workers.dev  # optional OAuth proxy
+
+# Where uploaded media files are stored (relative to the project root)
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+# Enable editorial workflow (draft → review → publish)
+publish_mode: editorial_workflow
+
+# Locale
+locale: ko
+
+# ─── Collections ─────────────────────────────────────────────────────────────
+collections:
+
+  # ── Projects (single JSON file with an array) ──────────────────────────────
+  - name: projects
+    label: 프로젝트 / Projects
+    files:
+      - label: 프로젝트 목록 / Project List
+        name: projects_list
+        file: content/projects.json
+        fields:
+          - name: projects
+            label: 프로젝트
+            label_singular: 프로젝트
+            widget: list
+            summary: "{{fields.year}} — {{fields.titleKo}}"
+            fields:
+
+              # ── Identifiers
+              - label: "ID"
+                name: id
+                widget: string
+                hint: "고유 숫자 ID (e.g. 1, 2, 3)"
+
+              - label: "슬러그 (URL Slug)"
+                name: slug
+                widget: string
+                pattern: ['^[a-z0-9-]+$', "소문자, 숫자, 하이픈만 허용"]
+                hint: "URL에 사용되는 영문 슬러그 (e.g. play-bus)"
+
+              # ── Titles
+              - label: "제목 (한국어)"
+                name: titleKo
+                widget: string
+
+              - label: "Title (English)"
+                name: titleEn
+                widget: string
+
+              # ── Year
+              - label: "연도 (Year)"
+                name: year
+                widget: number
+                value_type: int
+                min: 2000
+                max: 2099
+
+              # ── Category
+              - label: "카테고리"
+                name: category
+                widget: select
+                options:
+                  - label: "예술 & 기술 (Art & Technology)"
+                    value: art-tech
+                  - label: "연구 기반 (Research-Based)"
+                    value: research
+                  - label: "연극 (Dramatic Theatre)"
+                    value: theatre
+                  - label: "문화 기획 (Cultural Projects)"
+                    value: cultural
+
+              - label: "카테고리 레이블 (한국어)"
+                name: categoryLabelKo
+                widget: string
+                hint: "예: 학제간 / 예술 & 기술"
+
+              - label: "Category Label (English)"
+                name: categoryLabelEn
+                widget: string
+                hint: "e.g. Interdisciplinary / Art & Tech"
+
+              # ── Venue & Location
+              - label: "공연장 (한국어)"
+                name: venueKo
+                widget: string
+
+              - label: "Venue (English)"
+                name: venueEn
+                widget: string
+
+              - label: "장소 / 지역 (한국어)"
+                name: locationKo
+                widget: string
+
+              - label: "Location (English)"
+                name: locationEn
+                widget: string
+
+              # ── Role
+              - label: "역할 (한국어)"
+                name: roleKo
+                widget: string
+                hint: "예: 연출 / 더 스트레인저"
+
+              - label: "Role (English)"
+                name: roleEn
+                widget: string
+                hint: "e.g. Director / THE STRANGER"
+
+              # ── Descriptions (paragraphs)
+              - label: "작품 설명 (한국어) — 단락별 입력"
+                name: descriptionKo
+                widget: list
+                allow_add: true
+                field:
+                  label: "단락"
+                  name: item
+                  widget: text
+                hint: "각 단락을 별도 항목으로 입력하세요"
+
+              - label: "Description (English) — one paragraph per entry"
+                name: descriptionEn
+                widget: list
+                allow_add: true
+                field:
+                  label: "Paragraph"
+                  name: item
+                  widget: text
+
+              # ── Media
+              - label: "커버 이미지"
+                name: image
+                widget: image
+                required: false
+                hint: "권장 비율: 16:9 또는 4:3, 최소 1200px 너비"
+                media_folder: /public/images/projects
+                public_folder: /images/projects
+
+              - label: "갤러리 이미지"
+                name: galleryImages
+                widget: list
+                allow_add: true
+                required: false
+                field:
+                  label: "이미지"
+                  name: item
+                  widget: image
+                  media_folder: /public/images/projects
+                  public_folder: /images/projects
+
+              # ── Video
+              - label: "YouTube URL"
+                name: youtube
+                widget: string
+                required: false
+                hint: "전체 YouTube URL을 입력하세요 (예: https://www.youtube.com/watch?v=xxxxx)"
+                pattern:
+                  - '^$|^https://(www\.)?youtube\.com/watch\?v=|^https://youtu\.be/'
+                  - "올바른 YouTube URL을 입력하세요"
+
+              # ── Tags
+              - label: "태그 (Tags)"
+                name: tags
+                widget: list
+                allow_add: true
+                field:
+                  label: "태그"
+                  name: item
+                  widget: string
+
+              # ── Featured
+              - label: "홈페이지 노출 (Featured)"
+                name: featured
+                widget: boolean
+                default: false
+                hint: "활성화하면 홈페이지 선택 작업 섹션에 표시됩니다"
+
+              # ── Gradient colours (visual fallback)
+              - label: "그라디언트 시작 색상"
+                name: gradientFrom
+                widget: color
+                default: "#1a1a1a"
+                hint: "이미지가 없을 때 표시되는 배경 그라디언트 시작 색"
+
+              - label: "그라디언트 끝 색상"
+                name: gradientTo
+                widget: color
+                default: "#2d2d2d"
+                hint: "이미지가 없을 때 표시되는 배경 그라디언트 끝 색"
+
+  # ── Site Settings (ko.json and en.json) ────────────────────────────────────
+  - name: translations
+    label: 번역 / Translations
+    files:
+
+      - label: "한국어 콘텐츠 (Korean)"
+        name: ko
+        file: content/ko.json
+        fields:
+          - label: "연락처 이메일"
+            name: "contact.emailAddress"
+            widget: string
+          - label: "인스타그램 핸들"
+            name: "contact.instagramHandle"
+            widget: string
+
+      - label: "English Content"
+        name: en
+        file: content/en.json
+        fields:
+          - label: "Contact Email"
+            name: "contact.emailAddress"
+            widget: string
+          - label: "Instagram Handle"
+            name: "contact.instagramHandle"
+            widget: string

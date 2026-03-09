@@ -1,0 +1,273 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Custom CSS Variables ─────────────────────────────── */
+:root {
+  --color-bg: #FAFAF9;
+  --color-text: #0C0A09;
+  --color-text-muted: #78716C;
+  --color-border: #E7E5E4;
+  --color-accent: #D6D3D1;
+  --nav-height: 72px;
+  --transition-base: 400ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* ─── Base Reset ────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ─── Selection ─────────────────────────────────────────── */
+::selection {
+  background-color: var(--color-text);
+  color: var(--color-bg);
+}
+
+/* ─── Scroll Animation Classes ──────────────────────────── */
+.animate-on-scroll {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.animate-on-scroll.in-view {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.animate-on-scroll-delay-1 {
+  transition-delay: 0.1s;
+}
+
+.animate-on-scroll-delay-2 {
+  transition-delay: 0.2s;
+}
+
+.animate-on-scroll-delay-3 {
+  transition-delay: 0.3s;
+}
+
+.animate-on-scroll-delay-4 {
+  transition-delay: 0.4s;
+}
+
+/* ─── Fade In Delay Utilities ───────────────────────────── */
+.fade-in {
+  animation: fadeIn 0.9s ease forwards;
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.9s ease forwards;
+}
+
+.fade-in-delay-1 { animation-delay: 0.15s; opacity: 0; }
+.fade-in-delay-2 { animation-delay: 0.3s;  opacity: 0; }
+.fade-in-delay-3 { animation-delay: 0.45s; opacity: 0; }
+.fade-in-delay-4 { animation-delay: 0.6s;  opacity: 0; }
+.fade-in-delay-5 { animation-delay: 0.75s; opacity: 0; }
+.fade-in-delay-6 { animation-delay: 0.9s;  opacity: 0; }
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ─── Nav Link Hover Underline ──────────────────────────── */
+.nav-link {
+  position: relative;
+  display: inline-block;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background-color: currentColor;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+  width: 100%;
+}
+
+/* ─── Project Card ──────────────────────────────────────── */
+.project-card-image {
+  overflow: hidden;
+}
+
+.project-card-image img,
+.project-card-image .placeholder {
+  transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.project-card:hover .project-card-image .placeholder {
+  transform: scale(1.04);
+}
+
+/* ─── Language Toggle ───────────────────────────────────── */
+.lang-toggle {
+  font-feature-settings: 'tnum';
+  letter-spacing: 0.06em;
+}
+
+/* ─── Thin Divider Line ─────────────────────────────────── */
+.divider {
+  height: 1px;
+  background-color: var(--color-border);
+}
+
+/* ─── CV Timeline ───────────────────────────────────────── */
+.cv-entry {
+  border-top: 1px solid var(--color-border);
+  transition: background-color 0.3s ease;
+}
+
+.cv-entry:hover {
+  background-color: rgba(0, 0, 0, 0.015);
+}
+
+/* ─── Scrollbar ─────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-accent);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+
+/* ─── Focus Styles ──────────────────────────────────────── */
+:focus-visible {
+  outline: 1.5px solid var(--color-text);
+  outline-offset: 3px;
+}
+
+/* ─── Mobile touch scroll ───────────────────────────────── */
+@media (max-width: 768px) {
+  .horizontal-scroll {
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+  }
+}
+
+/* ─── Cinematic Hero — Scroll Line ──────────────────────── */
+@keyframes scrollLineAnimate {
+  0% {
+    top: -100%;
+    height: 45%;
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    top: 110%;
+    height: 45%;
+    opacity: 0;
+  }
+}
+
+.scroll-line-animate {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  width: 100%;
+  animation: scrollLineAnimate 2.4s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* ─── Page Transition ───────────────────────────────────── */
+@keyframes pageEnter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+main {
+  animation: pageEnter 0.6s ease forwards;
+}
+
+/* ─── Hero text white-space fix ─────────────────────────── */
+.hero-line {
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .hero-line {
+    white-space: normal;
+  }
+}
+
+/* ─── Project card — image scale on hover ───────────────── */
+.group:hover .project-img {
+  transform: scale(1.04);
+}
+
+/* ─── Lightbox keyboard focus ───────────────────────────── */
+[data-lightbox]:focus-visible {
+  outline: 1.5px solid white;
+  outline-offset: 4px;
+}
+
+/* ─── Smooth colour transitions ─────────────────────────── */
+a,
+button {
+  transition-property: color, background-color, border-color, opacity;
+  transition-timing-function: ease;
+  transition-duration: 280ms;
+}
+
+/* ─── Prevent FOUC on hero ──────────────────────────────── */
+.hero-line,
+.hero-line * {
+  will-change: opacity, transform;
+}

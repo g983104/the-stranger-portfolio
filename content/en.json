@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "works": "Works",
+    "about": "About",
+    "cv": "CV",
+    "contact": "Contact",
+    "back": "← Back"
+  },
+  "home": {
+    "studioName": "THE STRANGER",
+    "name": "Yu Taek Hwang",
+    "title": "Creative Director / Stage Director",
+    "tags": [
+      "Interdisciplinary Performance",
+      "Art & Technology",
+      "Cultural Projects"
+    ],
+    "scrollCta": "View Works",
+    "founded": "Est. 2016"
+  },
+  "works": {
+    "pageTitle": "Works",
+    "pageSubtitle": "Selected Projects",
+    "filters": {
+      "all": "All",
+      "interdisciplinary": "Interdisciplinary Arts",
+      "theatre": "Theatre"
+    },
+    "viewProject": "View Project"
+  },
+  "project": {
+    "year": "Year",
+    "role": "Role",
+    "category": "Category",
+    "venue": "Venue",
+    "location": "Location",
+    "description": "About the Work",
+    "backToWorks": "← Back to Works"
+  },
+  "about": {
+    "pageTitle": "About",
+    "studioLabel": "THE STRANGER — Founded 2016",
+    "bio": [
+      "Yu Taek Hwang is a Creative Director and Stage Director working at the intersections of theatre, interdisciplinary performance, art & technology, and cultural projects.",
+      "Leading THE STRANGER, an interdisciplinary art collective founded in 2016, Hwang explores new artistic languages through the convergence of technology and genre hybridization. Since the 2018 World Wandering Project — spanning 9 countries and 18 cities — the work has expanded into trans-linguistic artistic experimentation on a global scale.",
+      "International engagements include a guest lecture at the National School of Arts in Mexico (2019) and the management of a youth artist residency on Jeju Island (2020–2021), alongside numerous domestic and international collaborations.",
+      "Currently, Hwang works with specialists in direction, media, and technology to pursue international dialogue through the 'Border' series — continuing the journey as an innovative 'stranger' who traverses the frontiers of contemporary art."
+    ],
+    "tags": [
+      "#Theatre",
+      "#InterdisciplinaryArts",
+      "#Direction",
+      "#Curation",
+      "#Art&Tech",
+      "#InternationalExchange"
+    ],
+    "studioDescription": "Founded in 2016, The STRANGER is an interdisciplinary art collective that creates new artistic languages through the convergence of technology and genre hybridization. Since the 2018 World Wandering Project (18 cities across 9 countries), the group has pursued trans-linguistic artistic experimentation — expanding through a guest lecture at the National School of Arts in Mexico (2019), the management of a youth artist residency on Jeju Island (2020–2021), and numerous international activities. Currently, specialists in direction, media, and technology collaborate to explore international dialogue through the 'Border' series, continuing the group's journey as innovative 'strangers' who traverse the frontiers of contemporary art."
+  },
+  "cv": {
+    "pageTitle": "CV",
+    "pageSubtitle": "Creative Director / Stage Director",
+    "sections": {
+      "artTech": "Performance — Interdisciplinary / Art & Tech",
+      "research": "Performance — Research-Based",
+      "theatre": "Performance — Dramatic Theatre",
+      "cultural": "Festival / Cultural Arts Planning",
+      "residency": "Residency / Workshop / Research",
+      "awards": "Awards & Recognition"
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "subtitle": "For collaboration, project proposals, and general inquiries",
+    "email": "Email",
+    "instagram": "Instagram",
+    "studio": "THE STRANGER",
+    "location": "Seoul, Republic of Korea",
+    "emailAddress": "thestranger.official@gmail.com",
+    "instagramHandle": "@the_stranger_official"
+  },
+  "footer": {
+    "copyright": "© 2024 THE STRANGER. All rights reserved.",
+    "name": "Yu Taek Hwang",
+    "title": "Creative Director / Stage Director"
+  }
+}

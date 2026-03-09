@@ -1,0 +1,369 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "slug": "bioelectric-signals",
+      "titleKo": "Experiment: Bioelectric Signals and Sounds of Nature",
+      "titleEn": "Experiment: Bioelectric Signals and Sounds of Nature",
+      "year": 2024,
+      "category": "interdisciplinary",
+      "categoryLabelKo": "다원예술",
+      "categoryLabelEn": "Interdisciplinary Arts",
+      "venueKo": "그레이너리 스퀘어",
+      "venueEn": "Granary Square",
+      "locationKo": "런던, 영국",
+      "locationEn": "London, UK",
+      "roleKo": "연출",
+      "roleEn": "Director",
+      "descriptionKo": [
+        "살아있는 유기체를 흐르는 보이지 않는 전기 신호를 가청화하는 몰입형 음향 퍼포먼스.",
+        "생물학이 음악이 되고 자연이 기술이 되는 경계에서, 이 작품은 '듣는다'는 것의 의미를 근본적으로 재고하게 만든다. 식물의 전기 신호, 인체의 바이오리듬, 자연의 숨결이 음향 언어로 번역되며 새로운 감각의 지형을 만들어낸다.",
+        "런던 그레이너리 스퀘어에서 선보인 이 작품은 과학과 예술, 자연과 기술 사이의 경계를 지우며, 관객에게 비가시적인 생명의 언어를 청각으로 경험하게 한다."
+      ],
+      "descriptionEn": [
+        "An immersive sonic performance that makes audible the invisible electrical signals coursing through living organisms.",
+        "At the threshold where biology becomes music and nature becomes technology, the work interrogates what it means to listen — to plants, to bodies, to the planet itself. The bioelectric pulses of plants, the biorhythms of the human body, and the breath of nature are translated into sonic language, creating a new cartography of sensation.",
+        "Presented at Granary Square, London, the work dissolves the boundaries between science and art, nature and technology — inviting audiences to hear the invisible language of life."
+      ],
+      "image": "/images/projects/bioelectric-signals/cover.jpg",
+      "galleryImages": [
+        "/images/projects/bioelectric-signals/01.jpg",
+        "/images/projects/bioelectric-signals/02.jpg",
+        "/images/projects/bioelectric-signals/03.jpg"
+      ],
+      "youtube": "",
+      "tags": ["bioelectric signals", "sound art", "nature", "technology", "london", "immersive"],
+      "featured": true,
+      "gradientFrom": "#0d1a0d",
+      "gradientTo": "#1a2e1a"
+    },
+    {
+      "id": "2",
+      "slug": "simulation-on-the-border",
+      "titleKo": "경계에 대한 시뮬레이션",
+      "titleEn": "Simulation on the Border",
+      "year": 2023,
+      "category": "interdisciplinary",
+      "categoryLabelKo": "다원예술",
+      "categoryLabelEn": "Interdisciplinary Arts",
+      "venueKo": "몸소리말조아라 센터",
+      "venueEn": "Momsori-mal-joahra Center",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "연출 / 빈 프로젝트",
+      "roleEn": "Director / Bin Project",
+      "descriptionKo": [
+        "물리적, 심리적, 문화적 경계에 대한 사유.",
+        "라이브 퍼포먼스와 실시간 미디어 인터벤션을 통해, 정체성과 언어와 영토 사이의 경계적 공간을 탐구한다. 하나의 세계는 어디서 끝나고 다른 세계는 어디서 시작되는가?",
+        "'경계(Border)' 연작의 일환으로 제작된 이 작품은 분단과 이주, 타자성의 문제를 동시대 미디어 언어로 재구성하며, 시뮬레이션으로서의 현실과 현실로서의 시뮬레이션 사이를 탐색한다."
+      ],
+      "descriptionEn": [
+        "A meditation on borders — physical, psychological, and cultural.",
+        "Through live performance and real-time media intervention, the work examines the liminal space between identities, languages, and territories. Where does one world end and another begin?",
+        "Part of the 'Border' series, the work reconstitutes questions of division, migration, and otherness through contemporary media language — navigating between reality as simulation and simulation as reality."
+      ],
+      "image": "/images/projects/simulation-on-the-border/cover.jpg",
+      "galleryImages": [
+        "/images/projects/simulation-on-the-border/01.jpg",
+        "/images/projects/simulation-on-the-border/02.jpg"
+      ],
+      "youtube": "",
+      "tags": ["border", "media performance", "simulation", "identity", "research"],
+      "featured": true,
+      "gradientFrom": "#0a0a1e",
+      "gradientTo": "#12123a"
+    },
+    {
+      "id": "3",
+      "slug": "dios-ex-machina",
+      "titleKo": "DIOS EX MACHINA",
+      "titleEn": "DIOS EX MACHINA",
+      "year": 2022,
+      "category": "interdisciplinary",
+      "categoryLabelKo": "다원예술",
+      "categoryLabelEn": "Interdisciplinary Arts",
+      "venueKo": "콘텐츠문화광장 66무대",
+      "venueEn": "Contents Culture Square Stage 66",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "연출 / 빈 프로젝트",
+      "roleEn": "Director / Bin Project",
+      "descriptionKo": [
+        "기계가 신이 될 때.",
+        "인공지능의 신화와 기술 의존의 신학을 발굴하는 다원예술 퍼포먼스. 의례이자 비판이며, 전적으로 불안을 자아내는 작품.",
+        "'데우스 엑스 마키나'는 극작의 고전적 장치에서 출발하여, 디지털 시대의 새로운 신화 — 알고리즘의 섭리, 데이터의 예언, 코드의 성스러움 — 를 무대 위에 소환한다. 인간은 기계를 만들었고, 기계는 신을 만들었다."
+      ],
+      "descriptionEn": [
+        "When the machine becomes god.",
+        "An interdisciplinary performance that excavates the mythology of artificial intelligence and the theology of technological dependence. Part ritual, part critique, wholly unsettling.",
+        "DIOS EX MACHINA departs from a classical dramatic device to summon a new mythology of the digital age onto the stage — the providence of algorithms, the prophecy of data, the sanctity of code. Humans made the machine; the machine made the god."
+      ],
+      "image": "/images/projects/dios-ex-machina/cover.jpg",
+      "galleryImages": [
+        "/images/projects/dios-ex-machina/01.jpg",
+        "/images/projects/dios-ex-machina/02.jpg",
+        "/images/projects/dios-ex-machina/03.jpg",
+        "/images/projects/dios-ex-machina/04.jpg"
+      ],
+      "youtube": "",
+      "tags": ["AI", "machine", "ritual", "technology", "interdisciplinary"],
+      "featured": true,
+      "gradientFrom": "#140808",
+      "gradientTo": "#241010"
+    },
+    {
+      "id": "4",
+      "slug": "initiative",
+      "titleKo": "INI.TIA.TIVE",
+      "titleEn": "INI.TIA.TIVE",
+      "year": 2021,
+      "category": "interdisciplinary",
+      "categoryLabelKo": "다원예술",
+      "categoryLabelEn": "Interdisciplinary Arts",
+      "venueKo": "플랫폼 팜파",
+      "venueEn": "Platform Pampa",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "연출",
+      "roleEn": "Director",
+      "descriptionKo": [
+        "집단적 행동, 개인의 주체성, 그리고 시작 이전의 순간을 탐구하는 퍼포먼스.",
+        "세계적 멈춤의 시기에 개발되고 발표된 이 작품은 묻는다: 다시 시작한다는 것은 무엇을 의미하는가? 집단으로서, 개인으로서, 예술가로서.",
+        "이니셔티브(주도권/계획)라는 단어를 음절로 쪼개어 접근하는 이 작품은 언어와 행동, 의도와 결과 사이의 간극을 탐색하며, 팬데믹 이후 시대의 예술적 재개를 선언한다."
+      ],
+      "descriptionEn": [
+        "A performance exploring collective action, individual agency, and the moment before beginning.",
+        "Developed and presented during a period of global pause, the work asks: what does it mean to begin again? As a collective, as an individual, as an artist.",
+        "Approaching the word 'initiative' syllable by syllable, the work navigates the gap between language and action, intention and consequence — declaring an artistic restart in the post-pandemic era."
+      ],
+      "image": "/images/projects/initiative/cover.jpg",
+      "galleryImages": [
+        "/images/projects/initiative/01.jpg",
+        "/images/projects/initiative/02.jpg"
+      ],
+      "youtube": "",
+      "tags": ["agency", "collective", "pandemic", "language", "performance"],
+      "featured": true,
+      "gradientFrom": "#141408",
+      "gradientTo": "#20200e"
+    },
+    {
+      "id": "5",
+      "slug": "extranamente",
+      "titleKo": "#Extrañamente",
+      "titleEn": "#Extrañamente",
+      "year": 2019,
+      "category": "interdisciplinary",
+      "categoryLabelKo": "다원예술",
+      "categoryLabelEn": "Interdisciplinary Arts",
+      "venueKo": "센트로 데 아르테",
+      "venueEn": "Centro de Arte",
+      "locationKo": "산루이스 포토시, 멕시코",
+      "locationEn": "San Luis Potosí, Mexico",
+      "roleKo": "연출",
+      "roleEn": "Director",
+      "descriptionKo": [
+        "낯섦(extrañamente)과 이상함(strange)의 경계에서 태어난 작품.",
+        "멕시코에서의 국제 교류 레지던시를 통해 탄생한 이 퍼포먼스는 언어적 이방인이 된다는 경험을 예술적 언어로 번역한다. 한국어, 스페인어, 그리고 신체의 언어가 교차하며 새로운 소통의 가능성을 모색한다.",
+        "문화적 거리는 예술적 근접을 만들어낼 수 있는가? 이 작품은 그 질문을 무대 위에서 살아낸다."
+      ],
+      "descriptionEn": [
+        "A work born at the border between strangeness and the strange.",
+        "Created through an international exchange residency in Mexico, this performance translates the experience of becoming a linguistic foreigner into artistic language. Korean, Spanish, and the language of the body cross-examine each other, seeking new possibilities of communication.",
+        "Can cultural distance create artistic proximity? This work lives that question on stage."
+      ],
+      "image": "/images/projects/extranamente/cover.jpg",
+      "galleryImages": [
+        "/images/projects/extranamente/01.jpg",
+        "/images/projects/extranamente/02.jpg"
+      ],
+      "youtube": "",
+      "tags": ["international exchange", "language", "mexico", "cultural distance", "residency"],
+      "featured": true,
+      "gradientFrom": "#1a1200",
+      "gradientTo": "#2e2000"
+    },
+    {
+      "id": "6",
+      "slug": "play-bus",
+      "titleKo": "PLAY BUS",
+      "titleEn": "PLAY BUS",
+      "year": 2018,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "6개국 10개 도시 투어",
+      "venueEn": "Tour across 6 countries, 10 cities",
+      "locationKo": "러시아, 폴란드, 독일, 영국 외",
+      "locationEn": "Russia, Poland, Germany, UK, and more",
+      "roleKo": "연출 / 더 스트레인저",
+      "roleEn": "Director / THE STRANGER",
+      "descriptionKo": [
+        "6개국. 10개 도시. 1대의 버스.",
+        "대중교통을 연극적 공간으로 변환시킨 급진적 순회 실험. 러시아, 폴란드, 독일, 영국 등을 가로지르며 예상치 못한 관객들에게 퍼포먼스를 선사했다.",
+        "세계가 무대이며, 여정 자체가 작품이었다. PLAY BUS는 고정된 극장의 개념에 도전하며, 이동하는 예술, 경계를 넘는 연극, 일상의 틈에서 피어나는 퍼포먼스의 가능성을 탐구했다. 더 스트레인저의 세계 방랑 프로젝트의 핵심 작품."
+      ],
+      "descriptionEn": [
+        "Six countries. Ten cities. One bus.",
+        "A radical touring experiment that transformed public transportation into a theatrical space, bringing performance to unexpected audiences across Russia, Poland, Germany, the United Kingdom, and beyond.",
+        "The world as stage; the journey as the work. PLAY BUS challenged the concept of the fixed theatre, exploring the possibilities of mobile art, cross-border theatre, and performance flowering in the cracks of everyday life. The centrepiece of THE STRANGER's World Wandering Project."
+      ],
+      "image": "/images/projects/play-bus/cover.jpg",
+      "galleryImages": [
+        "/images/projects/play-bus/01.jpg",
+        "/images/projects/play-bus/02.jpg",
+        "/images/projects/play-bus/03.jpg"
+      ],
+      "youtube": "",
+      "tags": ["world wandering", "touring", "mobile theatre", "europe", "6 countries"],
+      "featured": true,
+      "gradientFrom": "#080814",
+      "gradientTo": "#101028"
+    },
+    {
+      "id": "7",
+      "slug": "just-a-wise-life",
+      "titleKo": "그냥, 슬기로운 생활",
+      "titleEn": "Just, A Wise Life",
+      "year": 2018,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "새들러스 웰스 극장 초청 / 청운예술극장",
+      "venueEn": "Sadler's Wells Theatre (invited) / Cheongun Arts Theatre",
+      "locationKo": "런던, 영국 / 서울, 대한민국",
+      "locationEn": "London, UK / Seoul, Republic of Korea",
+      "roleKo": "연출 / 더 스트레인저",
+      "roleEn": "Director / THE STRANGER",
+      "descriptionKo": [
+        "새들러스 웰스 극장 초청 — 분열된 세계에서 현명하게 산다는 것의 의미를 사유하는 연극.",
+        "개인의 증언, 신체 연극, 발견된 텍스트를 엮어 만들어진 이 작품은 언어와 신체와 경계를 가로질러 여행한다. '현명함'이라는 개념이 문화적, 언어적 번역의 과정에서 어떻게 변형되고 재발견되는가를 탐구한다.",
+        "대학로 청운예술극장에서 초연하여 런던 새들러스 웰스 극장에 초청받은 이 작품은 더 스트레인저의 국제적 가능성을 입증한 대표작이다."
+      ],
+      "descriptionEn": [
+        "Invited to Sadler's Wells Theatre, London — a performance meditating on what it means to live wisely in a fractured world.",
+        "Woven from personal testimony, physical theatre, and found text, the work travels across languages, bodies, and borders. It explores how the concept of 'wisdom' transforms and is rediscovered through processes of cultural and linguistic translation.",
+        "Premiering at Cheongun Arts Theatre in Daehangno before being invited to Sadler's Wells Theatre in London, the work proved THE STRANGER's international resonance."
+      ],
+      "image": "/images/projects/just-a-wise-life/cover.jpg",
+      "galleryImages": [
+        "/images/projects/just-a-wise-life/01.jpg",
+        "/images/projects/just-a-wise-life/02.jpg",
+        "/images/projects/just-a-wise-life/03.jpg"
+      ],
+      "youtube": "",
+      "tags": ["sadler's wells", "london", "physical theatre", "testimony"],
+      "featured": true,
+      "gradientFrom": "#180808",
+      "gradientTo": "#281410"
+    },
+    {
+      "id": "8",
+      "slug": "boundary",
+      "titleKo": "바운더리",
+      "titleEn": "Boundary",
+      "year": 2020,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "혜화동 1번지 — 세월호: 극장들",
+      "venueEn": "Hyehwa-dong 1st Street — Sewol Ferry: Theatres",
+      "locationKo": "성북마을극장, 서울",
+      "locationEn": "Seongbuk Village Theatre, Seoul",
+      "roleKo": "연출",
+      "roleEn": "Director",
+      "descriptionKo": [
+        "경계는 어디에 그어지는가 — 애도와 기억, 침묵과 발화 사이에서.",
+        "세월호 참사를 둘러싼 사회적 기억과 집단적 트라우마를 탐구하는 이 작품은, 극장이 어떻게 공동체의 치유 공간이 될 수 있는가를 묻는다.",
+        "'혜화동 1번지 — 세월호: 극장들' 프로그램의 일환으로 성북마을극장에서 발표된 이 작품은 연구와 증언, 퍼포먼스가 한데 엮인 복합적 형식을 취한다."
+      ],
+      "descriptionEn": [
+        "Where is the boundary drawn — between mourning and memory, silence and speech?",
+        "Exploring the social memory and collective trauma surrounding the Sewol Ferry tragedy, this work asks how theatre can become a space of communal healing.",
+        "Presented as part of the 'Hyehwa-dong 1st Street — Sewol Ferry: Theatres' programme at Seongbuk Village Theatre, the work takes a complex form weaving together research, testimony, and performance."
+      ],
+      "image": "/images/projects/boundary/cover.jpg",
+      "galleryImages": [
+        "/images/projects/boundary/01.jpg",
+        "/images/projects/boundary/02.jpg"
+      ],
+      "youtube": "",
+      "tags": ["memory", "mourning", "collective trauma", "healing"],
+      "featured": false,
+      "gradientFrom": "#0c0c0c",
+      "gradientTo": "#181818"
+    },
+    {
+      "id": "9",
+      "slug": "capacity",
+      "titleKo": "카파시티",
+      "titleEn": "Capacity",
+      "year": 2020,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "성북마을극장",
+      "venueEn": "Seongbuk Village Theatre",
+      "locationKo": "서울, 대한민국 / 제4회 퀴어 연극제",
+      "locationEn": "Seoul, Republic of Korea / 4th Queer Theatre Festival",
+      "roleKo": "연출",
+      "roleEn": "Director",
+      "descriptionKo": [
+        "우리는 얼마나 많은 것을 담을 수 있는가 — 사랑을, 두려움을, 타자를.",
+        "제4회 퀴어 연극제에서 선보인 이 작품은 규범화된 신체와 욕망의 경계에 대한 연극적 탐구다. '용량'이라는 개념을 통해 신체의 한계, 감정의 포화, 사회적 용인의 임계점을 탐색한다.",
+        "정치적이되 선동적이지 않은, 개인적이되 보편적인 언어로 쓰인 작품."
+      ],
+      "descriptionEn": [
+        "How much can we hold — love, fear, the other?",
+        "Presented at the 4th Queer Theatre Festival, this work is a theatrical exploration of the boundaries of normalised bodies and desire. Through the concept of 'capacity', it navigates the limits of the body, the saturation of emotion, and the threshold of social tolerance.",
+        "Written in a language that is political without being polemical, personal without being parochial."
+      ],
+      "image": "/images/projects/capacity/cover.jpg",
+      "galleryImages": [
+        "/images/projects/capacity/01.jpg",
+        "/images/projects/capacity/02.jpg"
+      ],
+      "youtube": "",
+      "tags": ["queer theatre", "body", "desire", "political theatre"],
+      "featured": false,
+      "gradientFrom": "#14081a",
+      "gradientTo": "#200c28"
+    },
+    {
+      "id": "10",
+      "slug": "the-attic",
+      "titleKo": "다락방",
+      "titleEn": "The Attic",
+      "year": 2016,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "동덕여자대학교예술센터 / 청운예술극장",
+      "venueEn": "Dongduk Women's University Arts Center / Cheongun Arts Theatre",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "연출 — 제14회 서울연극제 청년감독전 / 대한민국연극브릿지페스티벌",
+      "roleEn": "Director — 14th Seoul Theatre Festival Young Directors Program / Korea Theatre Bridge Festival",
+      "descriptionKo": [
+        "다락방 — 기억이 쌓이는 공간, 잊혀진 것들의 무덤, 혹은 꿈이 시작되는 곳.",
+        "제14회 서울연극제 청년감독전과 대한민국연극브릿지페스티벌 모두에 선정된 이 작품은 황유택의 연출적 출발점이자, 더 스트레인저의 첫 번째 선언이다.",
+        "공간과 기억, 세대와 침묵에 관한 이 작품은 대한민국연극브릿지페스티벌에서 서울시장상 및 최우수작품상을 수상하며 그 예술적 성취를 인정받았다."
+      ],
+      "descriptionEn": [
+        "The attic — where memories accumulate, where forgotten things are buried, or where dreams begin.",
+        "Selected for both the 14th Seoul Theatre Festival's Young Directors Program and the Korea Theatre Bridge Festival, this work marks both the directorial departure point of Yu Taek Hwang and the first declaration of THE STRANGER.",
+        "Concerned with space and memory, generations and silence, the work was recognised with the Seoul Metropolitan Mayor's Award and Best Work Award at the Korea Theatre Bridge Festival."
+      ],
+      "image": "/images/projects/the-attic/cover.jpg",
+      "galleryImages": [
+        "/images/projects/the-attic/01.jpg",
+        "/images/projects/the-attic/02.jpg"
+      ],
+      "youtube": "",
+      "tags": ["memory", "space", "debut", "seoul theatre festival", "award"],
+      "featured": false,
+      "gradientFrom": "#0e0c08",
+      "gradientTo": "#1c1810"
+    }
+  ]
+}
