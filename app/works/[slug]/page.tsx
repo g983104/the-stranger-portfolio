@@ -175,6 +175,9 @@ export default function ProjectDetailPage({ params }: Props) {
                   { label: t('project.role'), value: role },
                   { label: t('project.venue'), value: venue },
                   { label: t('project.location'), value: location },
+                  ...(project.organizer ? [{ label: t('project.organizer'), value: project.organizer }] : []),
+                  ...(project.host ? [{ label: t('project.host'), value: project.host }] : []),
+                  ...(project.sponsor ? [{ label: t('project.sponsor'), value: project.sponsor }] : []),
                 ].map(({ label, value }) => (
                   <div key={label} className="border-b border-stone-100 py-5">
                     <p className="text-[10px] tracking-[0.2em] uppercase text-stone-400 mb-2">

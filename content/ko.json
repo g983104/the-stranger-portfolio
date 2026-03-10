@@ -34,6 +34,9 @@
     "category": "분야",
     "venue": "장소",
     "location": "지역",
+    "organizer": "주관",
+    "host": "주최",
+    "sponsor": "후원",
     "description": "작품 소개",
     "backToWorks": "← 작업으로 돌아가기"
   },

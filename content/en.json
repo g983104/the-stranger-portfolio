@@ -34,6 +34,9 @@
     "category": "Category",
     "venue": "Venue",
     "location": "Location",
+    "organizer": "Organizer",
+    "host": "Presented by",
+    "sponsor": "Supported by",
     "description": "About the Work",
     "backToWorks": "← Back to Works"
   },

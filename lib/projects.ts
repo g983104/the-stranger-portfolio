@@ -17,6 +17,9 @@ export interface Project {
   locationEn: string;
   roleKo: string;
   roleEn: string;
+  organizer?: string;
+  host?: string;
+  sponsor?: string;
   descriptionKo: string[];
   descriptionEn: string[];
   /** Path relative to /public, e.g. /images/projects/slug/cover.jpg */
