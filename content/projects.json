@@ -28,11 +28,12 @@
         "At the threshold where biology becomes music and nature becomes technology, the work interrogates what it means to listen — to plants, to bodies, to the planet itself. The bioelectric pulses of plants, the biorhythms of the human body, and the breath of nature are translated into sonic language, creating a new cartography of sensation.",
         "Presented at Granary Square, London, the work dissolves the boundaries between science and art, nature and technology — inviting audiences to hear the invisible language of life."
       ],
-      "image": "/images/projects/bioelectric-signals/cover.jpg",
+      "image": "/images/projects/bioelectric-signals/cover.png",
       "galleryImages": [
-        "/images/projects/bioelectric-signals/01.jpg",
-        "/images/projects/bioelectric-signals/02.jpg",
-        "/images/projects/bioelectric-signals/03.jpg"
+        "/images/projects/bioelectric-signals/01.png",
+        "/images/projects/bioelectric-signals/02.png",
+        "/images/projects/bioelectric-signals/03.jpg",
+        "/images/projects/bioelectric-signals/04.jpg"
       ],
       "youtube": "",
       "tags": ["bioelectric signals", "sound art", "nature", "technology", "london", "immersive"],
@@ -79,7 +80,12 @@
       "image": "/images/projects/simulation-of-border/cover.jpg",
       "galleryImages": [
         "/images/projects/simulation-of-border/01.jpg",
-        "/images/projects/simulation-of-border/02.jpg"
+        "/images/projects/simulation-of-border/02.jpg",
+        "/images/projects/simulation-of-border/03.jpg",
+        "/images/projects/simulation-of-border/04.jpg",
+        "/images/projects/simulation-of-border/05.jpg",
+        "/images/projects/simulation-of-border/06.jpg",
+        "/images/projects/simulation-of-border/07.jpg"
       ],
       "youtube": "https://youtu.be/hTECFyzeQAM",
       "tags": ["border", "media performance", "simulation", "identity", "research"],
@@ -126,7 +132,12 @@
         "/images/projects/dios-ex-machina/01.jpg",
         "/images/projects/dios-ex-machina/02.jpg",
         "/images/projects/dios-ex-machina/03.jpg",
-        "/images/projects/dios-ex-machina/04.jpg"
+        "/images/projects/dios-ex-machina/04.jpg",
+        "/images/projects/dios-ex-machina/05.jpg",
+        "/images/projects/dios-ex-machina/06.jpg",
+        "/images/projects/dios-ex-machina/07.jpg",
+        "/images/projects/dios-ex-machina/08.jpg",
+        "/images/projects/dios-ex-machina/09.jpg"
       ],
       "youtube": "",
       "tags": ["AI", "machine", "ritual", "technology", "interdisciplinary"],
@@ -169,7 +180,8 @@
       "image": "/images/projects/initiative/cover.jpg",
       "galleryImages": [
         "/images/projects/initiative/01.jpg",
-        "/images/projects/initiative/02.jpg"
+        "/images/projects/initiative/02.png",
+        "/images/projects/initiative/03.png"
       ],
       "youtube": "",
       "tags": ["agency", "collective", "pandemic", "language", "performance"],
@@ -208,7 +220,20 @@
       "image": "/images/projects/extranamente/cover.jpg",
       "galleryImages": [
         "/images/projects/extranamente/01.jpg",
-        "/images/projects/extranamente/02.jpg"
+        "/images/projects/extranamente/02.jpg",
+        "/images/projects/extranamente/03.jpg",
+        "/images/projects/extranamente/04.jpg",
+        "/images/projects/extranamente/05.jpg",
+        "/images/projects/extranamente/06.jpg",
+        "/images/projects/extranamente/07.jpg",
+        "/images/projects/extranamente/08.jpg",
+        "/images/projects/extranamente/09.jpg",
+        "/images/projects/extranamente/10.jpg",
+        "/images/projects/extranamente/11.jpg",
+        "/images/projects/extranamente/12.jpg",
+        "/images/projects/extranamente/13.jpg",
+        "/images/projects/extranamente/14.jpg",
+        "/images/projects/extranamente/15.jpg"
       ],
       "youtube": "",
       "tags": ["international exchange", "language", "mexico", "cultural distance", "residency"],
