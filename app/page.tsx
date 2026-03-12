@@ -31,7 +31,7 @@ export default function HomePage() {
         {/* ── Selected Works ─────────────────────────────────── */}
         <section
           className="py-24 md:py-36 px-6 md:px-10 bg-stone-50"
-          aria-label={lang === 'ko' ? '선택된 작업' : 'Selected Works'}
+          aria-label={lang === 'ko' ? '프로젝트' : 'Projects'}
         >
           <div className="max-w-screen-xl mx-auto">
             {/* Section header */}
@@ -45,7 +45,7 @@ export default function HomePage() {
                     className="font-light text-stone-950"
                     style={{ fontSize: 'clamp(2rem, 4vw, 3rem)' }}
                   >
-                    {lang === 'ko' ? '선택된 작업' : 'Selected Works'}
+                    {lang === 'ko' ? '프로젝트' : 'Projects'}
                   </h2>
                 </div>
 
