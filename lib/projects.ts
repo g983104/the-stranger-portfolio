@@ -1,6 +1,6 @@
 import projectsData from '@/content/projects.json';
 
-export type ProjectCategory = 'interdisciplinary' | 'theatre';
+export type ProjectCategory = 'interdisciplinary' | 'theatre' | 'festival';
 
 export interface Project {
   id: string;

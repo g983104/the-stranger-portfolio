@@ -24,7 +24,8 @@
     "filters": {
       "all": "전체",
       "interdisciplinary": "다원예술",
-      "theatre": "연극"
+      "theatre": "연극",
+      "festival": "축제 / 이벤트"
     },
     "viewProject": "프로젝트 보기"
   },

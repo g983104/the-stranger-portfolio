@@ -14,6 +14,7 @@ const categories: { value: FilterValue; key: string }[] = [
   { value: 'all', key: 'works.filters.all' },
   { value: 'interdisciplinary', key: 'works.filters.interdisciplinary' },
   { value: 'theatre', key: 'works.filters.theatre' },
+  { value: 'festival', key: 'works.filters.festival' },
 ];
 
 export default function CategoryFilter({ active, onChange }: CategoryFilterProps) {

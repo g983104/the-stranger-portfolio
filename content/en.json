@@ -24,7 +24,8 @@
     "filters": {
       "all": "All",
       "interdisciplinary": "Interdisciplinary Arts",
-      "theatre": "Theatre"
+      "theatre": "Theatre",
+      "festival": "Festival / Event"
     },
     "viewProject": "View Project"
   },
