@@ -16,28 +16,28 @@ type CvEntry = {
 const artTech: CvEntry[] = [
   {
     year: '2024.06',
-    titleKo: '바이오전기 신호와 자연의 소리 실험',
+    titleKo: 'Experiment: Bioelectric Signals and Sounds of Nature',
     titleEn: 'Experiment: Bioelectric Signals and Sounds of Nature',
     detailKo: '그레이너리 스퀘어, 런던, 영국',
     detailEn: 'Granary Square, London, UK',
   },
   {
     year: '2023.07',
-    titleKo: '경계 위의 시뮬레이션',
+    titleKo: '경계에 대한 시뮬레이션',
     titleEn: 'Simulation on the Border',
     detailKo: '빈 프로젝트, 몸소리말조아라 센터',
     detailEn: 'Bin Project, Momsori-mal-joahra Center',
   },
   {
     year: '2022.02',
-    titleKo: '데우스 엑스 마키나',
+    titleKo: 'DIOS EX MACHINA',
     titleEn: 'DIOS EX MACHINA',
     detailKo: '빈 프로젝트, 콘텐츠문화광장 66무대',
     detailEn: 'Bin Project, Contents Culture Square Stage 66',
   },
   {
     year: '2021.08',
-    titleKo: '이니셔티브',
+    titleKo: 'INI.TIA.TIVE',
     titleEn: 'INI.TIA.TIVE',
     detailKo: '플랫폼 팜파',
     detailEn: 'Platform Pampa',
@@ -51,7 +51,7 @@ const artTech: CvEntry[] = [
   },
   {
     year: '2019.10',
-    titleKo: '#엑스트라냐멘테',
+    titleKo: '#Extrañamente',
     titleEn: '#Extrañamente',
     detailKo: '센트로 데 아르테, 산루이스 포토시, 멕시코',
     detailEn: 'Centro de Arte, San Luis Potosí, Mexico',
@@ -61,7 +61,7 @@ const artTech: CvEntry[] = [
 const research: CvEntry[] = [
   {
     year: '2020.04',
-    titleKo: '경계',
+    titleKo: '바운더리',
     titleEn: 'Boundary',
     detailKo: '혜화동 1번지 — 세월호: 극장들, 성북마을극장',
     detailEn: 'Hyehwa-dong 1st Street — Sewol Ferry: Theatres, Seongbuk Village Theatre',
@@ -89,21 +89,21 @@ const research: CvEntry[] = [
   },
   {
     year: '2018.07',
-    titleKo: '현명한 삶',
+    titleKo: '그냥, 슬기로운 생활',
     titleEn: 'Just, A Wise Life',
     detailKo: '더 스트레인저 — 새들러스 웰스 극장 초청, 런던, 영국',
     detailEn: 'THE STRANGER — Invited to Sadler\'s Wells Theatre, London, UK',
   },
   {
     year: '2018.01–12',
-    titleKo: '플레이 버스',
+    titleKo: 'PLAY BUS',
     titleEn: 'PLAY BUS',
     detailKo: '더 스트레인저 — 6개국 10개 도시 투어 (러시아, 폴란드, 독일, 영국 외)',
     detailEn: 'THE STRANGER — Tour across 6 countries, 10 cities (Russia, Poland, Germany, UK, and more)',
   },
   {
     year: '2017.08',
-    titleKo: '현명한 삶',
+    titleKo: '그냥, 슬기로운 생활',
     titleEn: 'Just, A Wise Life',
     detailKo: '더 스트레인저, 천군예술극장, 대학로',
     detailEn: 'THE STRANGER, Cheongun Arts Theatre, Daehangno',
@@ -113,7 +113,7 @@ const research: CvEntry[] = [
 const theatre: CvEntry[] = [
   {
     year: '2020.02',
-    titleKo: '용량',
+    titleKo: '카파시티',
     titleEn: 'Capacity',
     detailKo: '제4회 퀴어 연극제, 성북마을극장',
     detailEn: '4th Queer Theatre Festival, Seongbuk Village Theatre',
@@ -245,7 +245,7 @@ const cultural: CvEntry[] = [
 const residency: CvEntry[] = [
   {
     year: '2022',
-    titleKo: '경계 위의 시뮬레이션 연구 & 워크숍',
+    titleKo: '경계에 대한 시뮬레이션 연구 & 워크숍',
     titleEn: 'Research & Workshop for Simulation on the Nation\'s Time, Our Memory, and the Border',
     detailKo: '한국문화예술위원회 — 청년 국제 교류 지원',
     detailEn: 'Arts Council Korea — International Exchange Support for Young Artists',
