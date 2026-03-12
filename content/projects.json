@@ -42,7 +42,7 @@
     },
     {
       "id": "2",
-      "slug": "simulation-on-the-border",
+      "slug": "simulation-of-border",
       "titleKo": "경계에 대한 시뮬레이션",
       "titleEn": "Simulation on the Border",
       "year": 2023,
@@ -76,10 +76,10 @@
         "Yet differences existed between the two borders. Korea's DMZ functions as an absolute, impenetrable wall through which no member of society can pass; by contrast, Mexico's wall operates as a filter-like barrier through which members of society can pass via strict selection. This meant that the barriers were perceived very differently by their respective societies: the collapse of the DMZ was associated with anxieties about war, invasion, and the cultural assimilation of an unknown entity from across the border; whereas the collapse of the Mexican wall held relatively little social issue awareness among its members, and the anxiety was less focused on entities beyond the border than on the existence of the Global South.",
         "The second context, 2) Experiential borders, was an approach through the varied border-related experiences lived by individuals in each country. While rooted in the social, political, and cultural influence of the physical barrier, these are also borders excavated with a focus on each individual member of society's exploration of the self."
       ],
-      "image": "/images/projects/simulation-on-the-border/cover.jpg",
+      "image": "/images/projects/simulation-of-border/cover.jpg",
       "galleryImages": [
-        "/images/projects/simulation-on-the-border/01.jpg",
-        "/images/projects/simulation-on-the-border/02.jpg"
+        "/images/projects/simulation-of-border/01.jpg",
+        "/images/projects/simulation-of-border/02.jpg"
       ],
       "youtube": "https://youtu.be/hTECFyzeQAM",
       "tags": ["border", "media performance", "simulation", "identity", "research"],
