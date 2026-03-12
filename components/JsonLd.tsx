@@ -7,14 +7,14 @@ export function PersonSchema() {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    name: 'Yu Taek Hwang',
+    name: 'Hwang Youtaek',
     alternateName: '황유택',
-    jobTitle: 'Creative Director / Stage Director',
+    jobTitle: 'Creative Director / Director',
     description:
-      'Creative Director and Stage Director working across theatre, interdisciplinary performance, art & technology, and cultural projects. Founder of THE STRANGER, an interdisciplinary art collective.',
+      'Creative Director and Director working across theatre, interdisciplinary performance, art & technology, and cultural projects. Founder of THE STRANGER, an interdisciplinary art collective.',
     url: BASE_URL,
     sameAs: [
-      'https://instagram.com/the_stranger_official',
+      'https://instagram.com/g983104',
       'https://g983104.notion.site/the-stranger-eng',
     ],
     nationality: { '@type': 'Country', name: 'South Korea' },
@@ -65,7 +65,7 @@ export function CreativeWorkSchema({ project, lang }: { project: Project; lang: 
     },
     creator: {
       '@type': 'Person',
-      name: 'Yu Taek Hwang',
+      name: 'Hwang Youtaek',
       alternateName: '황유택',
     },
     genre: project.categoryLabelEn,
@@ -88,15 +88,15 @@ export function WebSiteSchema() {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'THE STRANGER — Yu Taek Hwang',
+    name: 'THE STRANGER — Hwang Youtaek',
     alternateName: '더 스트레인저 — 황유택',
     url: BASE_URL,
     description:
-      'Portfolio of Yu Taek Hwang (황유택), Creative Director and Stage Director working across theatre, interdisciplinary performance, art & technology, and cultural projects.',
+      'Portfolio of Hwang Youtaek (황유택), Creative Director and Director working across theatre, interdisciplinary performance, art & technology, and cultural projects.',
     inLanguage: ['ko', 'en'],
     author: {
       '@type': 'Person',
-      name: 'Yu Taek Hwang',
+      name: 'Hwang Youtaek',
       alternateName: '황유택',
     },
   };

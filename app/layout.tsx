@@ -17,14 +17,14 @@ export const metadata: Metadata = {
     process.env.NEXT_PUBLIC_SITE_URL ?? 'https://thestranger.kr'
   ),
   title: {
-    default: 'THE STRANGER — 황유택 | Yu Taek Hwang',
-    template: '%s | THE STRANGER — Yu Taek Hwang',
+    default: 'THE STRANGER — 황유택 | Hwang Youtaek',
+    template: '%s | THE STRANGER — Hwang Youtaek',
   },
   description:
-    '황유택은 연극, 학제간 퍼포먼스, 예술과 기술, 문화 기획을 가로지르는 크리에이티브 디렉터이자 연출가입니다. Yu Taek Hwang is a Creative Director and Stage Director working across theatre, interdisciplinary performance, art & technology, and cultural projects.',
+    '황유택은 연극, 학제간 퍼포먼스, 예술과 기술, 문화 기획을 가로지르는 크리에이티브 디렉터이자 연출입니다. Hwang Youtaek is a Creative Director and Director working across theatre, interdisciplinary performance, art & technology, and cultural projects.',
   keywords: [
     'Creative Director',
-    'Stage Director',
+    'Director',
     'Theatre Director',
     'Interdisciplinary Performance',
     'Experimental Theatre',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     'Korean Director',
     'THE STRANGER',
     '황유택',
-    'Yu Taek Hwang',
+    'Hwang Youtaek',
     'Interdisciplinary Arts',
     'Cultural Projects',
     'Art Festival',
@@ -47,26 +47,26 @@ export const metadata: Metadata = {
     'Edinburgh Fringe',
     'London Performance',
   ],
-  authors: [{ name: 'Yu Taek Hwang / 황유택', url: 'https://thestranger.kr' }],
-  creator: 'Yu Taek Hwang',
+  authors: [{ name: 'Hwang Youtaek / 황유택', url: 'https://thestranger.kr' }],
+  creator: 'Hwang Youtaek',
   publisher: 'THE STRANGER',
   category: 'Art & Performance',
   openGraph: {
     type: 'website',
     locale: 'ko_KR',
     alternateLocale: 'en_US',
-    title: 'THE STRANGER — Yu Taek Hwang | Creative Director & Stage Director',
+    title: 'THE STRANGER — Hwang Youtaek | Creative Director & Director',
     description:
-      'Creative Director and Stage Director working across theatre, interdisciplinary performance, art & technology, and cultural projects. Founded THE STRANGER in 2016.',
+      'Creative Director and Director working across theatre, interdisciplinary performance, art & technology, and cultural projects. Founded THE STRANGER in 2016.',
     siteName: 'THE STRANGER',
     url: 'https://thestranger.kr',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'THE STRANGER — Yu Taek Hwang',
+    title: 'THE STRANGER — Hwang Youtaek',
     description:
-      'Creative Director & Stage Director / 크리에이티브 디렉터 & 연출가. Interdisciplinary performance, art & technology.',
-    creator: '@the_stranger_official',
+      'Creative Director & Director / 크리에이티브 디렉터 & 연출. Interdisciplinary performance, art & technology.',
+    creator: '@g983104',
   },
   robots: {
     index: true,

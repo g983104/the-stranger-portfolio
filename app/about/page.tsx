@@ -37,10 +37,10 @@ export default function AboutPage() {
               {/* Name Block */}
               <div>
                 <p className="text-xs tracking-[0.2em] uppercase text-stone-400 mb-3">
-                  {lang === 'ko' ? '크리에이티브 디렉터 / 연출가' : 'Creative Director / Stage Director'}
+                  {lang === 'ko' ? '크리에이티브 디렉터 / 연출' : 'Creative Director / Director'}
                 </p>
                 <h2 className="text-2xl font-light tracking-wide text-stone-950">
-                  {lang === 'ko' ? '황유택' : 'Yu Taek Hwang'}
+                  {lang === 'ko' ? '황유택' : 'Hwang Youtaek'}
                 </h2>
               </div>
 

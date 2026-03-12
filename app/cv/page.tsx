@@ -373,7 +373,7 @@ export default function CvPage() {
           {/* ── Page Header ──────────────────────────────────── */}
           <AnimatedSection className="pt-16 md:pt-24 pb-10 md:pb-14 border-b border-stone-200 mb-16 md:mb-20">
             <p className="text-[11px] tracking-[0.25em] uppercase text-stone-400 mb-3">
-              {lang === 'ko' ? '황유택' : 'Yu Taek Hwang'}
+              {lang === 'ko' ? '황유택' : 'Hwang Youtaek'}
             </p>
             <h1 className="text-4xl md:text-6xl font-light tracking-wide text-stone-950 mb-3">
               {t('cv.pageTitle')}

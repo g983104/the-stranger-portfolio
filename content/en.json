@@ -8,8 +8,8 @@
   },
   "home": {
     "studioName": "THE STRANGER",
-    "name": "Yu Taek Hwang",
-    "title": "Creative Director / Stage Director",
+    "name": "Hwang Youtaek",
+    "title": "Creative Director / Director",
     "tags": [
       "Interdisciplinary Performance",
       "Art & Technology",
@@ -44,10 +44,10 @@
     "pageTitle": "About",
     "studioLabel": "THE STRANGER — Founded 2016",
     "bio": [
-      "Yu Taek Hwang is a Creative Director and Stage Director working at the intersections of theatre, interdisciplinary performance, art & technology, and cultural projects.",
+      "Hwang Youtaek is a Creative Director and Director working at the intersections of theatre, interdisciplinary performance, art & technology, and cultural projects.",
       "Leading THE STRANGER, an interdisciplinary art collective founded in 2016, Hwang explores new artistic languages through the convergence of technology and genre hybridization. Since the 2018 World Wandering Project — spanning 9 countries and 18 cities — the work has expanded into trans-linguistic artistic experimentation on a global scale.",
       "International engagements include a guest lecture at the National School of Arts in Mexico (2019) and the management of a youth artist residency on Jeju Island (2020–2021), alongside numerous domestic and international collaborations.",
-      "Currently, Hwang works with specialists in direction, media, and technology to pursue international dialogue through the 'Border' series — continuing the journey as an innovative 'stranger' who traverses the frontiers of contemporary art."
+      "Currently, Hwang Youtaek works with specialists in direction, media, and technology to pursue international dialogue through the 'Border' series — continuing the journey as an innovative 'stranger' who traverses the frontiers of contemporary art."
     ],
     "tags": [
       "#Theatre",
@@ -61,7 +61,7 @@
   },
   "cv": {
     "pageTitle": "CV",
-    "pageSubtitle": "Creative Director / Stage Director",
+    "pageSubtitle": "Creative Director / Director",
     "sections": {
       "artTech": "Performance — Interdisciplinary / Art & Tech",
       "research": "Performance — Research-Based",
@@ -78,12 +78,12 @@
     "instagram": "Instagram",
     "studio": "THE STRANGER",
     "location": "Seoul, Republic of Korea",
-    "emailAddress": "thestranger.official@gmail.com",
-    "instagramHandle": "@the_stranger_official"
+    "emailAddress": "g983104@gmail.com",
+    "instagramHandle": "@g983104"
   },
   "footer": {
     "copyright": "© 2024 THE STRANGER. All rights reserved.",
-    "name": "Yu Taek Hwang",
-    "title": "Creative Director / Stage Director"
+    "name": "Hwang Youtaek",
+    "title": "Creative Director / Director"
   }
 }

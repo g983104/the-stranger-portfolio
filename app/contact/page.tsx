@@ -58,7 +58,7 @@ export default function ContactPage() {
                       {t('contact.instagram')}
                     </p>
                     <a
-                      href="https://instagram.com/the_stranger_official"
+                      href="https://instagram.com/g983104"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-sm font-light text-stone-700 hover:text-stone-950 transition-colors duration-300 underline underline-offset-4 decoration-stone-200 hover:decoration-stone-400"
