@@ -104,7 +104,7 @@ export default function HomePage() {
                   style={{ fontSize: 'clamp(1.2rem, 2.2vw, 1.65rem)' }}
                 >
                   {lang === 'ko'
-                    ? '기술과 장르의 경계를 넘나드는 새로운 예술 언어를 탐구하는 학제간 예술 콜렉티브.'
+                    ? '기술과 장르의 경계를 넘나드는 새로운 예술 언어를 탐구하는 다원예술 콜렉티브.'
                     : 'An interdisciplinary art collective exploring new artistic languages through the convergence of technology and genre hybridization.'}
                 </p>
 
