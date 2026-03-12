@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     template: '%s | THE STRANGER — Hwang Youtaek',
   },
   description:
-    '황유택은 연극, 학제간 퍼포먼스, 예술과 기술, 문화 기획을 가로지르는 크리에이티브 디렉터이자 연출입니다. Hwang Youtaek is a Creative Director and Director working across theatre, interdisciplinary performance, art & technology, and cultural projects.',
+    '황유택은 연극, 다원 퍼포먼스, 예술과 기술, 문화 기획을 가로지르는 크리에이티브 디렉터이자 연출입니다. Hwang Youtaek is a Creative Director and Director working across theatre, interdisciplinary performance, art & technology, and cultural projects.',
   keywords: [
     'Creative Director',
     'Director',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     'Art Festival',
     '연출가',
     '크리에이티브 디렉터',
-    '학제간 퍼포먼스',
+    '다원 퍼포먼스',
     '연극 연출',
     '예술과 기술',
     "Sadler's Wells",

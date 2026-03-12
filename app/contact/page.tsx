@@ -89,7 +89,7 @@ export default function ContactPage() {
                 <div className="space-y-3">
                   {[
                     lang === 'ko' ? '연극' : 'Theatre',
-                    lang === 'ko' ? '학제간 퍼포먼스' : 'Interdisciplinary Performance',
+                    lang === 'ko' ? '다원 퍼포먼스' : 'Interdisciplinary Performance',
                     lang === 'ko' ? '예술과 기술' : 'Art & Technology',
                     lang === 'ko' ? '문화 기획' : 'Cultural Projects',
                   ].map((label, i) => (
