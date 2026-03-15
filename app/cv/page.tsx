@@ -82,7 +82,7 @@ const research: CvEntry[] = [
   },
   {
     year: '2018.08',
-    titleKo: '현명한 아내의 삶 2',
+    titleKo: '그냥, 슬기로운 생활 2',
     titleEn: 'Just One Wife Life 2',
     detailKo: '더 스트레인저, C 베뉴 아담 하우스 극장, 에든버러, 영국',
     detailEn: 'THE STRANGER, C venues Adam House Theatre, Edinburgh, UK',
