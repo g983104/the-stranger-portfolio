@@ -172,8 +172,8 @@ const cultural: CvEntry[] = [
   },
   {
     year: '2021',
-    titleKo: '양천구 청년예술인 지원 사업 \'세대 다리 프로젝트: 시간의 울림\'',
-    titleEn: 'Yangcheon District Youth Artist Support Program \'Generation Bridge Project: Temporal Resonance\'',
+    titleKo: '양천구 청년예술인 지원사업 \'시대교감\'',
+    titleEn: 'Yangcheon-gu Young Artists Support Programme \'Sidae Gyogam\'',
     detailKo: '양천구청 — 주최',
     detailEn: 'Yangcheon District Office — Organizer',
   },
