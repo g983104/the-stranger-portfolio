@@ -147,18 +147,11 @@ const theatre: CvEntry[] = [
     detailEn: 'Seoul Fringe Festival, Sangam World Cup Stadium',
   },
   {
-    year: '2016.04',
-    titleKo: '다락방',
-    titleEn: 'The Attic',
-    detailKo: '제14회 서울연극제 — 청년감독전',
-    detailEn: '14th Seoul Theatre Festival — Young Directors Program',
-  },
-  {
     year: '2016.02',
     titleKo: '다락방',
     titleEn: 'The Attic',
-    detailKo: '한국연극브릿지페스티벌, 동덕여자대학교예술센터',
-    detailEn: 'Korea Theatre Bridge Festival, Dongduk Women\'s University Arts Center',
+    detailKo: '한국연극브릿지페스티벌, 동덕여자대학교예술센터 / 제14회 서울연극제 — 청년감독전',
+    detailEn: 'Korea Theatre Bridge Festival, Dongduk Women\'s University Arts Center / 14th Seoul Theatre Festival — Young Directors Program',
   },
   {
     year: '2015.08',
