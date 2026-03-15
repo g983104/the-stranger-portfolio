@@ -636,6 +636,52 @@
       "featured": false,
       "gradientFrom": "#0e0c08",
       "gradientTo": "#1c1810"
+    },
+    {
+      "id": "15",
+      "slug": "ted-hwang",
+      "titleKo": "TED: 황유택",
+      "titleEn": "TED: Hwang Youtaek",
+      "year": 2023,
+      "category": "interdisciplinary",
+      "categoryLabelKo": "토크쇼 / 강연",
+      "categoryLabelEn": "Talk Show / Lecture",
+      "venueKo": "이너프라운지 지하",
+      "venueEn": "Inner Fringe Lounge B1",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "기획 / 연사",
+      "roleEn": "Producer / Speaker",
+      "organizer": "",
+      "host": "",
+      "sponsor": "",
+      "descriptionKo": [
+        "예술과 여행, 정책의 세 가지 면모를 지닌 황유택. 그러나 그는 아마도 단순히 예술가도, 여행가도, 정책가도 아닙니다.",
+        "이 토크쇼는 그동안의 황유택의 생애에 대한 가벼운 이야기를 담은 자리입니다. 그 곳에서는 세계를 유랑하며 펼쳐지는 예술과 여행의 이야기, 문제 해결을 위한 정책과 거버넌스에 대한 통찰 등, 사소하고 시시콜콜한 이야기를 담아 솔직하게 털어놓는 자리가 될 것입니다.",
+        "이 강연에서는 명언이나 인생 강의는 찾아볼 수 없겠지만, 단 한 사람의 정체성을 찾아가는 이야기를 공유하며 서로에게 환기하는 시간이 우리에게 주어지면 좋겠습니다."
+      ],
+      "descriptionEn": [
+        "Hwang Youtaek — artist, traveller, policy thinker. Yet perhaps none of these labels quite fit.",
+        "This talk show is a candid space to share the light and personal stories of his life so far: tales of art and travel across the world, reflections on policy and governance as tools for solving problems, and the small, mundane details that rarely make it into formal presentations.",
+        "There are no grand life lessons here — only the honest story of one person searching for identity, shared in the hope that it might spark something in someone else."
+      ],
+      "image": "/images/projects/ted-hwang/cover.jpg",
+      "galleryImages": [
+        "/images/projects/ted-hwang/01.jpg",
+        "/images/projects/ted-hwang/02.jpg",
+        "/images/projects/ted-hwang/03.jpg",
+        "/images/projects/ted-hwang/04.jpg",
+        "/images/projects/ted-hwang/05.jpg",
+        "/images/projects/ted-hwang/06.jpg",
+        "/images/projects/ted-hwang/07.jpg",
+        "/images/projects/ted-hwang/08.jpg",
+        "/images/projects/ted-hwang/09.jpg"
+      ],
+      "youtube": "",
+      "tags": ["talk show", "lecture", "identity", "fringe", "seoul"],
+      "featured": false,
+      "gradientFrom": "#080810",
+      "gradientTo": "#10101a"
     }
   ]
 }
