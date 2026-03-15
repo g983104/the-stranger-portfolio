@@ -202,8 +202,8 @@ const cultural: CvEntry[] = [
     year: '2020',
     titleKo: 'ARS: 포스트-연극 예술 레지던시 기획 사업',
     titleEn: 'ARS: Post-Theatre Art Residency Planning Project',
-    detailKo: '서울문화재단',
-    detailEn: 'Seoul Foundation for Arts and Culture',
+    detailKo: '서울문화재단 — 기획 총괄',
+    detailEn: 'Seoul Foundation for Arts and Culture — Planning Director',
   },
   {
     year: '2020.04',
