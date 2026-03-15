@@ -325,6 +325,9 @@ const awards: CvEntry[] = [
   },
 ];
 
+const other: CvEntry[] = [
+];
+
 function CvSection({
   titleKey,
   entries,
@@ -333,6 +336,8 @@ function CvSection({
   entries: CvEntry[];
 }) {
   const { t, lang } = useLanguage();
+
+  if (entries.length === 0) return null;
 
   return (
     <section className="mb-16 md:mb-20" aria-label={t(titleKey)}>
@@ -405,6 +410,7 @@ export default function CvPage() {
             <CvSection titleKey="cv.sections.cultural" entries={cultural}  />
             <CvSection titleKey="cv.sections.residency" entries={residency}  />
             <CvSection titleKey="cv.sections.awards" entries={awards}  />
+            <CvSection titleKey="cv.sections.other" entries={other}  />
           </div>
         </div>
       </main>
