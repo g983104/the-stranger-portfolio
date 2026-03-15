@@ -266,7 +266,7 @@ const residency: CvEntry[] = [
   },
   {
     year: '2020',
-    titleKo: '따라서, 나는 프로젝트: 온라인 문화센터의 실험적 구축',
+    titleKo: '고로 나, 프로젝트: 온라인 문화센터 구축 사업',
     titleEn: 'Therefore, I Project: Experimental construction of an online cultural center',
     detailKo: '예술 실험',
     detailEn: 'Arts Experiment',
