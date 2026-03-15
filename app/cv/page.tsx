@@ -363,8 +363,8 @@ const other: CvEntry[] = [
   },
   {
     year: '2016–현',
-    titleKo: '극단 낯선사람',
-    titleEn: 'Theatre Company The Stranger',
+    titleKo: '예술 콜렉티브 낯선사람',
+    titleEn: 'Arts Collective The Stranger',
     detailKo: '대표 / 연출',
     detailEn: 'Founder & Artistic Director',
   },
