@@ -266,8 +266,8 @@ const residency: CvEntry[] = [
   },
   {
     year: '2019.10',
-    titleKo: '국제 예술 교류 레지던시 \'맥칼에 대한 찬가\'',
-    titleEn: 'International Arts Exchange Residency Ode to McCal',
+    titleKo: '국제 예술 교류 레지던시 \'맥콜예찬\'',
+    titleEn: 'Korea-Mexico Art Project',
     detailKo: '멕시코시티 / 산루이스 포토시 — 초청 (한국문화예술위원회 지원)',
     detailEn: 'Mexico City / San Luis Potosí — Invited (Supported by Arts Council Korea)',
   },
