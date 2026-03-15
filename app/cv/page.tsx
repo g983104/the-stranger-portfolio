@@ -221,8 +221,8 @@ const cultural: CvEntry[] = [
   },
   {
     year: '2016.09',
-    titleKo: 'SNS 연극 페스티벌 \'안녕! 이방인들\'',
-    titleEn: 'SNS Theatre Festival \'Hello! Strangers\'',
+    titleKo: 'SNS 연극 페스티벌 \'안녕! 낯선사람\'',
+    titleEn: 'SNS Theatre Festival \'Hello! Stranger\'',
     detailKo: '',
     detailEn: '',
   },
