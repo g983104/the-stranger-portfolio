@@ -283,7 +283,7 @@ const residency: CvEntry[] = [
 const awards: CvEntry[] = [
   {
     year: '2024–2025',
-    titleKo: '국가유산활용업프로젝트 — 국가유산청 창상',
+    titleKo: '국가유산활용 프로젝트 — 국가유산청 창상',
     titleEn: 'National Heritage Utilization Project — National Heritage Administration Award',
     detailKo: '',
     detailEn: '',
