@@ -244,6 +244,20 @@ const residency: CvEntry[] = [
     detailEn: 'Arts Council Korea — International Exchange Support for Young Artists',
   },
   {
+    year: '2022',
+    titleKo: '황유택 외, 『도시현장형 청년예술인 지원사업 성과 및 지역문화×청년예술 정책 방향 연구보고서』',
+    titleEn: 'Hwang Youtaek et al., Research Report on Outcomes of Urban Field-based Young Artists Support Programme and Policy Direction for Local Culture × Youth Arts',
+    detailKo: '서울문화재단 — 책자발간',
+    detailEn: 'Seoul Foundation for Arts and Culture — Publication',
+  },
+  {
+    year: '2021',
+    titleKo: '황유택 외, 『서교예술실험센터 운영모델 개발 연구』',
+    titleEn: 'Hwang Youtaek et al., Research on Operational Model Development for Seogyo Arts Experimental Center',
+    detailKo: '서울문화재단 — 책자발간',
+    detailEn: 'Seoul Foundation for Arts and Culture — Publication',
+  },
+  {
     year: '2020',
     titleKo: '미래 연극: 아트온라인 레지던시',
     titleEn: 'Future Theatre: Artonline Residency',
