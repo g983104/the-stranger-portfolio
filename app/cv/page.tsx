@@ -134,7 +134,7 @@ const theatre: CvEntry[] = [
   },
   {
     year: '2016.12',
-    titleKo: '낮을 숨기는 집',
+    titleKo: '낮 가리는 집',
     titleEn: 'The House That Hides the Day',
     detailKo: '더 스트레인저, 천군예술극장, 대학로',
     detailEn: 'THE STRANGER, Cheongun Arts Theatre, Daehangno',
