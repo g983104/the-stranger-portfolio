@@ -207,8 +207,8 @@ const cultural: CvEntry[] = [
   },
   {
     year: '2020.04',
-    titleKo: '세운상가 도시 재생 페스티벌 \'세운 열리다 — 서치라이트\'',
-    titleEn: 'Sewoon Sangga Urban Regeneration Festival \'Sewoon Opens — Searchlight\'',
+    titleKo: '세운상가군 도시재생 축제 \'세운개장\'',
+    titleEn: 'Sewoon Sangga District Urban Regeneration Festival \'Sewoon Gaejang\'',
     detailKo: '서울특별시 / 세운 시민 협의회',
     detailEn: 'Seoul Metropolitan City / Sewoon Citizens Council',
   },
