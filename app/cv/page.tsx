@@ -318,8 +318,8 @@ const awards: CvEntry[] = [
   },
   {
     year: '2015',
-    titleKo: '제5회 청년 프린지 페스티벌 — 최우수상 \'지구 최대의 대담함 상\'',
-    titleEn: '5th Youth Fringe Festival — Best Award \'Earth\'s Greatest Audacity Award\'',
+    titleKo: '제5회 청년 프린지 페스티벌 — 최우수상 \'지구최고패기상\'',
+    titleEn: '5th Youth Fringe Festival — Best Award \'Jigu Chego Paegi Award\'',
     detailKo: '',
     detailEn: '',
   },
