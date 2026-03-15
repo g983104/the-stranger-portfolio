@@ -732,6 +732,133 @@
       "featured": false,
       "gradientFrom": "#080810",
       "gradientTo": "#10101a"
+    },
+    {
+      "id": "17",
+      "slug": "hamlet-eternal-time",
+      "titleKo": "햄릿, 영원히 남을 時",
+      "titleEn": "Hamlet, the Eternal Hour",
+      "year": 2016,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "서울 상암월드컵경기장 여자화장실",
+      "venueEn": "Sangam World Cup Stadium Women's Restroom, Seoul",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "기획 / 연출",
+      "roleEn": "Producer / Director",
+      "organizer": "낯선사람",
+      "host": "",
+      "sponsor": "",
+      "descriptionKo": [
+        "사후세계에서 결혼으로 완성된 햄릿과 오필리아의 사랑. 이야기는 다시 살아있던 시절로 돌아간다.",
+        "포틴브라스가 지배하는 덴마크. 성문을 지키는 경비들은 어느 날, 유령이 된 햄릿과 오필리아를 목격한다.",
+        "죽음 이후에도 계속되는 사랑과 기억, 그리고 권력과 무관하게 흘러가는 시간에 관한 이야기."
+      ],
+      "descriptionEn": [
+        "In the afterlife, the love of Hamlet and Ophelia finds its resolution in marriage. The story then travels back — to the time when Hamlet was still alive.",
+        "Denmark, now under Fortinbras' rule. The guards at the gate witness, one day, the spirits of Hamlet and Ophelia.",
+        "A story about love and memory that persist beyond death, and time that flows on regardless of power."
+      ],
+      "image": "/images/projects/hamlet-eternal-time/cover.jpeg",
+      "galleryImages": [
+        "/images/projects/hamlet-eternal-time/01.jpeg",
+        "/images/projects/hamlet-eternal-time/02.jpeg",
+        "/images/projects/hamlet-eternal-time/03.jpg",
+        "/images/projects/hamlet-eternal-time/04.jpg",
+        "/images/projects/hamlet-eternal-time/05.jpg",
+        "/images/projects/hamlet-eternal-time/06.jpg",
+        "/images/projects/hamlet-eternal-time/07.jpg"
+      ],
+      "youtube": "",
+      "tags": ["hamlet", "site-specific", "shakespeare", "afterlife", "seoul"],
+      "featured": false,
+      "gradientFrom": "#0c0814",
+      "gradientTo": "#180c1e"
+    },
+    {
+      "id": "18",
+      "slug": "house-hides-day",
+      "titleKo": "낮 가리는 집",
+      "titleEn": "The House That Hides the Day",
+      "year": 2016,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "청운예술극장",
+      "venueEn": "Cheongun Arts Theatre",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "기획 / 연출",
+      "roleEn": "Producer / Director",
+      "organizer": "낯선사람",
+      "host": "",
+      "sponsor": "",
+      "descriptionKo": [
+        "24시간 어둠 속에 사는 이들은 항상 빛을 찾는 꿈을 꾼다. 그러나 빛 속의 삶은 곰팡이와 함께하는 삶보다 더 힘들고, 더 더럽다.",
+        "낮을 가리는 집 안의 사람들. 그들은 무엇을 피하고 있는가, 그리고 무엇이 그들을 이 어둠으로 밀어 넣었는가.",
+        "청년들을 야간의 공간으로 내몰고 있는 사회 구조에 대한 날카로운 비판."
+      ],
+      "descriptionEn": [
+        "Those who live in darkness around the clock always dream of finding daylight. Yet life in the light is harder and dirtier than life lived alongside mold.",
+        "The people inside the house that hides the day — what are they escaping, and what pushed them into this darkness?",
+        "A sharp critique of the social structures that drive young people into the spaces of night."
+      ],
+      "image": "/images/projects/house-hides-day/cover.jpg",
+      "galleryImages": [
+        "/images/projects/house-hides-day/01.jpg",
+        "/images/projects/house-hides-day/02.jpg",
+        "/images/projects/house-hides-day/03.jpg",
+        "/images/projects/house-hides-day/04.jpg"
+      ],
+      "youtube": "",
+      "tags": ["youth", "social critique", "darkness", "urban", "seoul"],
+      "featured": false,
+      "gradientFrom": "#080c08",
+      "gradientTo": "#0c1410"
+    },
+    {
+      "id": "19",
+      "slug": "hello-stranger",
+      "titleKo": "헬로, 스트레인저",
+      "titleEn": "Hello, Stranger",
+      "year": 2019,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "",
+      "venueEn": "",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "기획 / 연출",
+      "roleEn": "Producer / Director",
+      "organizer": "낯선사람",
+      "host": "",
+      "sponsor": "",
+      "descriptionKo": [
+        "관객은 낯선 공간으로 초대된다. 배우들은 사방에서 등장한다.",
+        "그들이 가져온 것은 냉장고로 변신하는 타임머신. 그 안의 사람들은 서로 다른 언어를 말한다.",
+        "언어가 실패할 때, 비로소 공연이 시작된다."
+      ],
+      "descriptionEn": [
+        "The audience is invited into an unfamiliar space. Actors emerge from all sides.",
+        "What they bring is a time machine that transforms into a refrigerator. The people inside speak different languages.",
+        "When language fails, the performance begins."
+      ],
+      "image": "/images/projects/hello-stranger/cover.jpg",
+      "galleryImages": [
+        "/images/projects/hello-stranger/01.jpg",
+        "/images/projects/hello-stranger/02.jpg",
+        "/images/projects/hello-stranger/03.jpg",
+        "/images/projects/hello-stranger/04.jpg",
+        "/images/projects/hello-stranger/05.jpg"
+      ],
+      "youtube": "",
+      "tags": ["language", "stranger", "time", "immersive", "seoul"],
+      "featured": false,
+      "gradientFrom": "#100808",
+      "gradientTo": "#1a0c0c"
     }
   ]
 }
