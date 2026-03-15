@@ -238,7 +238,7 @@ const cultural: CvEntry[] = [
 const residency: CvEntry[] = [
   {
     year: '2022',
-    titleKo: '경계에 대한 시뮬레이션 연구 & 워크숍',
+    titleKo: '국가의 시간과 우리의 기억, 그리고 경계에 대한 시뮬레이션',
     titleEn: 'Research & Workshop for Simulation on the Nation\'s Time, Our Memory, and the Border',
     detailKo: '한국문화예술위원회 — 청년 국제 교류 지원',
     detailEn: 'Arts Council Korea — International Exchange Support for Young Artists',
