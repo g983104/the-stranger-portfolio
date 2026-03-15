@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
+import { useState } from 'react';
 import { useLanguage } from '@/context/LanguageContext';
 import type { Project } from '@/lib/projects';
 
@@ -12,6 +13,7 @@ interface ProjectCardProps {
 
 export default function ProjectCard({ project, index = 0 }: ProjectCardProps) {
   const { lang, t } = useLanguage();
+  const [imgError, setImgError] = useState(false);
 
   const title = lang === 'ko' ? project.titleKo : project.titleEn;
   const categoryLabel =
@@ -34,13 +36,14 @@ export default function ProjectCard({ project, index = 0 }: ProjectCardProps) {
         />
 
         {/* Cover image */}
-        {project.image && (
+        {project.image && !imgError && (
           <Image
             src={project.image}
             alt={lang === 'ko' ? project.titleKo : project.titleEn}
             fill
             className="object-cover transition-transform duration-700 group-hover:scale-105"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            onError={() => setImgError(true)}
           />
         )}
 
