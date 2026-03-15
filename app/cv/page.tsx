@@ -326,6 +326,55 @@ const awards: CvEntry[] = [
 ];
 
 const other: CvEntry[] = [
+  {
+    year: '2024–현',
+    titleKo: '미담문화콘텐츠연구소',
+    titleEn: 'Midam Culture Contents Research Institute',
+    detailKo: '크리에이티브디렉터',
+    detailEn: 'Creative Director',
+  },
+  {
+    year: '2023',
+    titleKo: '서울시 천호지하차도 청년문화복합공간 조성사업',
+    titleEn: 'Seoul Cheonho Underpass Young Artists Cultural Complex Development Project',
+    detailKo: '자문위원',
+    detailEn: 'Advisory Committee Member',
+  },
+  {
+    year: '2022–2023',
+    titleKo: '양천구 문화도시추진사업',
+    titleEn: 'Yangcheon-gu Cultural City Promotion Project',
+    detailKo: '기획위원',
+    detailEn: 'Planning Committee Member',
+  },
+  {
+    year: '2020–2023',
+    titleKo: '예술청 (Seoul Art Platform)',
+    titleEn: 'Seoul Art Platform',
+    detailKo: '디렉터 및 운영위원',
+    detailEn: 'Director & Operating Committee Member',
+  },
+  {
+    year: '2020–2022',
+    titleKo: '서교예술실험센터',
+    titleEn: 'Seogyo Arts Experimental Center',
+    detailKo: '운영위원',
+    detailEn: 'Operating Committee Member',
+  },
+  {
+    year: '2016–현',
+    titleKo: '극단 낯선사람',
+    titleEn: 'Theatre Company The Stranger',
+    detailKo: '대표 / 연출',
+    detailEn: 'Founder & Artistic Director',
+  },
+  {
+    year: '2016–2017',
+    titleKo: '대학로 청운예술극장',
+    titleEn: 'Cheongun Arts Theatre, Daehangno',
+    detailKo: '극장장',
+    detailEn: 'Theatre Director',
+  },
 ];
 
 function CvSection({
