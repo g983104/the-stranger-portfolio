@@ -282,6 +282,13 @@ const residency: CvEntry[] = [
 
 const awards: CvEntry[] = [
   {
+    year: '2024–2025',
+    titleKo: '국가유산활용업프로젝트 — 국가유산청 창상',
+    titleEn: 'National Heritage Utilization Project — National Heritage Administration Award',
+    detailKo: '',
+    detailEn: '',
+  },
+  {
     year: '2023',
     titleKo: '양천문화재단 이사장 감사패',
     titleEn: 'Letter of Appreciation from the Chairman of Yangcheon Cultural Foundation',
