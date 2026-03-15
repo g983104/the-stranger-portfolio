@@ -209,8 +209,8 @@ const cultural: CvEntry[] = [
     year: '2020.04',
     titleKo: '세운상가군 도시재생 축제 \'세운개장\'',
     titleEn: 'Sewoon Sangga District Urban Regeneration Festival \'Sewoon Gaejang\'',
-    detailKo: '서울특별시 / 세운 시민 협의회',
-    detailEn: 'Seoul Metropolitan City / Sewoon Citizens Council',
+    detailKo: '서울특별시 — 축제기획',
+    detailEn: 'Seoul Metropolitan City — Festival Planning',
   },
   {
     year: '2018.01–12',
