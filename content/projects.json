@@ -638,6 +638,56 @@
       "gradientTo": "#1c1810"
     },
     {
+      "id": "16",
+      "slug": "state-time-memory",
+      "titleKo": "국가의 시간과 우리의 기억, 그리고 경계에 대한 시뮬레이션",
+      "titleEn": "The State's Time, Our Memory, and a Simulation of the Border",
+      "year": 2022,
+      "category": "interdisciplinary",
+      "categoryLabelKo": "다큐멘터리 / AI 시뮬레이터",
+      "categoryLabelEn": "Documentary / AI Simulator",
+      "venueKo": "",
+      "venueEn": "",
+      "locationKo": "한국 / 멕시코",
+      "locationEn": "Korea / Mexico",
+      "roleKo": "기획 / 연출",
+      "roleEn": "Producer / Director",
+      "organizer": "낯선사람, Hekatombe",
+      "host": "",
+      "sponsor": "",
+      "descriptionKo": [
+        "<국가의 시간과 우리의 기억, 그리고 경계에 대한 시뮬레이션>은 한국의 낯선사람과 멕시코의 Hekatombe가 함께 기획한 국제창작작업으로, 다양한 경계들이 붕괴·재편되는 오늘날 개인의 사적기억과 역사적 기억을 통해 국가와 개인을 넘어선 이데올로기를 환기하고 그 경계의 근원을 찾는다.",
+        "국가들 안에서의 개인의 삶에 대한 방대한 이야기를 엮어 질문을 찾기 위해 양국이 국제교류를 통해 답사, 리서치, 실험, 워크숍을 진행하였으며, 이를 기반으로 퍼포밍과 융복합 기술 시뮬레이터를 창작하였다.",
+        "세계사를 보면 수많은 분쟁과 전쟁, 정치·국제·문화적으로 크게 국가 간 혹은 세계사 내에서 역사적 위치를 점유한 주요한 사건들에는 어김없이 등장하는 테두리와 장벽이 있다. 현존하는 한반도의 DMZ와 미국과 멕시코 간의 불법이민자 혹은 교류를 통제하기 위한 약 3,000km에 이르는 분리 장벽이 그것이다."
+      ],
+      "descriptionEn": [
+        "A Simulation of the State's Time, Our Memory, and the Border is an international collaborative work conceived jointly by THE STRANGER (Korea) and Hekatombe (Mexico). In an era where diverse borders collapse and are redrawn, the work evokes ideologies that transcend nation and individual — through personal memory and historical memory — and seeks the origins of those borders.",
+        "To weave together the vast stories of individual lives within nations and find the questions worth asking, both countries conducted field trips, research, experiments, and workshops through international exchange, and on this basis created a performing and convergent-technology simulator.",
+        "In world history, the major events that have occupied defining positions — through conflict, war, political, international, and cultural rupture — have invariably featured walls and barriers. Among those still present today: the DMZ on the Korean Peninsula, and the separation wall stretching approximately 3,000km between the United States and Mexico, built to control irregular migration and cross-border movement."
+      ],
+      "image": "/images/projects/state-time-memory/cover.jpg",
+      "galleryImages": [
+        "/images/projects/state-time-memory/01.jpg",
+        "/images/projects/state-time-memory/02.jpg",
+        "/images/projects/state-time-memory/03.jpg",
+        "/images/projects/state-time-memory/04.jpg",
+        "/images/projects/state-time-memory/05.jpg",
+        "/images/projects/state-time-memory/06.jpg",
+        "/images/projects/state-time-memory/07.jpg",
+        "/images/projects/state-time-memory/08.jpg",
+        "/images/projects/state-time-memory/09.png",
+        "/images/projects/state-time-memory/10.png",
+        "/images/projects/state-time-memory/11.png",
+        "/images/projects/state-time-memory/12.png",
+        "/images/projects/state-time-memory/13.png"
+      ],
+      "youtube": "",
+      "tags": ["border", "documentary", "AI simulator", "international", "memory", "korea", "mexico"],
+      "featured": false,
+      "gradientFrom": "#0a0a14",
+      "gradientTo": "#14141e"
+    },
+    {
       "id": "15",
       "slug": "ted-hwang",
       "titleKo": "TED: 황유택",
