@@ -105,7 +105,7 @@ const research: CvEntry[] = [
     year: '2017.08',
     titleKo: '그냥, 슬기로운 생활',
     titleEn: 'Just, A Wise Life',
-    detailKo: '더 스트레인저, 천군예술극장, 대학로',
+    detailKo: '더 스트레인저, 청운예술극장, 대학로',
     detailEn: 'THE STRANGER, Cheongun Arts Theatre, Daehangno',
   },
 ];
@@ -122,21 +122,21 @@ const theatre: CvEntry[] = [
     year: '2017.06',
     titleKo: '우리의 플랜B',
     titleEn: 'Our PLAN.B',
-    detailKo: '더 스트레인저, 천군예술극장, 대학로',
+    detailKo: '더 스트레인저, 청운예술극장, 대학로',
     detailEn: 'THE STRANGER, Cheongun Arts Theatre, Daehangno',
   },
   {
     year: '2017.02',
     titleKo: '작가를 찾는 여섯 등장인물',
     titleEn: 'Six Characters in Search of an Author',
-    detailKo: '천군예술극장, 대학로',
+    detailKo: '청운예술극장, 대학로',
     detailEn: 'Cheongun Arts Theatre, Daehangno',
   },
   {
     year: '2016.12',
     titleKo: '낮 가리는 집',
     titleEn: 'The House That Hides the Day',
-    detailKo: '더 스트레인저, 천군예술극장, 대학로',
+    detailKo: '더 스트레인저, 청운예술극장, 대학로',
     detailEn: 'THE STRANGER, Cheongun Arts Theatre, Daehangno',
   },
   {
