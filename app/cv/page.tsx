@@ -179,8 +179,8 @@ const cultural: CvEntry[] = [
   },
   {
     year: '2020–2021',
-    titleKo: '제주 청소년 회관 \'예술인 마을, 예술 레지던시\' 개발 사업',
-    titleEn: 'Jeju Youth Hall \'Artist Village, Art Residency\' Development Project',
+    titleKo: '제주도 청년예술인 마을 조성사업 \'Ze주청년회관\'',
+    titleEn: 'Jeju-do Young Artists Village Development Project \'Ze주청년회관\'',
     detailKo: '서울시 청소년 사무소 — 주최',
     detailEn: 'Seoul Metropolitan City Youth Office — Organizer',
   },
