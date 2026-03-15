@@ -362,13 +362,6 @@ const other: CvEntry[] = [
     detailEn: 'Operating Committee Member',
   },
   {
-    year: '2015',
-    titleKo: '국립극단',
-    titleEn: 'National Theatre Company of Korea',
-    detailKo: '연출부',
-    detailEn: 'Direction Department',
-  },
-  {
     year: '2016–현',
     titleKo: '예술 콜렉티브 낯선사람',
     titleEn: 'Arts Collective The Stranger',
@@ -381,6 +374,13 @@ const other: CvEntry[] = [
     titleEn: 'Cheongun Arts Theatre, Daehangno',
     detailKo: '극장장',
     detailEn: 'Theatre Director',
+  },
+  {
+    year: '2015',
+    titleKo: '국립극단',
+    titleEn: 'National Theatre Company of Korea',
+    detailKo: '연출부',
+    detailEn: 'Direction Department',
   },
 ];
 
