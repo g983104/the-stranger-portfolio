@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useLanguage } from '@/context/LanguageContext';
 import type { Project } from '@/lib/projects';
 
@@ -24,13 +25,24 @@ export default function ProjectCard({ project, index = 0 }: ProjectCardProps) {
     >
       {/* Thumbnail Placeholder */}
       <div className="project-card-image relative overflow-hidden bg-stone-100 aspect-[4/3] mb-4">
-        {/* Gradient Placeholder */}
+        {/* Gradient fallback (shown while image loads) */}
         <div
-          className="placeholder absolute inset-0 w-full h-full"
+          className="absolute inset-0 w-full h-full"
           style={{
             background: `linear-gradient(135deg, ${project.gradientFrom} 0%, ${project.gradientTo} 100%)`,
           }}
         />
+
+        {/* Cover image */}
+        {project.image && (
+          <Image
+            src={project.image}
+            alt={lang === 'ko' ? project.titleKo : project.titleEn}
+            fill
+            className="object-cover transition-transform duration-700 group-hover:scale-105"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          />
+        )}
 
         {/* Year badge */}
         <div className="absolute top-4 left-4 z-10">
