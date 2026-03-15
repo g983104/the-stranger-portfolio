@@ -417,6 +417,43 @@
       "gradientTo": "#200c28"
     },
     {
+      "id": "11",
+      "slug": "standing-on-the-road",
+      "titleKo": "길 위에 서서",
+      "titleEn": "Standing on the Road",
+      "year": 2019,
+      "category": "theatre",
+      "categoryLabelKo": "리서치베이스공연",
+      "categoryLabelEn": "Research-Based Performance",
+      "venueKo": "삼일로창고극장",
+      "venueEn": "Samilro Changgo Theatre",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "연출",
+      "roleEn": "Director",
+      "organizer": "삼일로창고극장 24시간 연극제",
+      "host": "",
+      "sponsor": "",
+      "descriptionKo": [
+        "우리는 어느 길에서 서로를 바라보고 위치하는가. 이 작품은 매우 짧지만 길의 다양한 갈래성으로 보여주는 것이 아닌 층위로 차원을 구분하여 서로가 전혀 소통할 수 없는 상황을 보여준다. 이로써 인간의 경계의 본능이 어떻게 존재할 수 있으면서 동시에 어떻게 무너트리고자 하는지를 탐구하는 작품이다."
+      ],
+      "descriptionEn": [
+        "On what road do we look at and position ourselves in relation to one another? Though a short work, rather than depicting the many branching paths of a road, it divides dimensions by layer — presenting a situation in which people are entirely unable to communicate with each other. Through this, the work explores how the human instinct for boundaries can persist while simultaneously seeking to break them down."
+      ],
+      "image": "/images/projects/standing-on-the-road/cover.jpg",
+      "galleryImages": [
+        "/images/projects/standing-on-the-road/01.jpg",
+        "/images/projects/standing-on-the-road/02.jpg",
+        "/images/projects/standing-on-the-road/03.jpg",
+        "/images/projects/standing-on-the-road/04.jpg"
+      ],
+      "youtube": "",
+      "tags": ["border", "communication", "research", "24-hour theatre"],
+      "featured": false,
+      "gradientFrom": "#0a0a0a",
+      "gradientTo": "#1a1a1a"
+    },
+    {
       "id": "10",
       "slug": "the-attic",
       "titleKo": "다락방",
