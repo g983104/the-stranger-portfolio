@@ -16,10 +16,11 @@ export default function WorksPage() {
   const { t, lang } = useLanguage();
   const [activeFilter, setActiveFilter] = useState<FilterValue>('all');
 
-  const filtered =
+  const filtered = (
     activeFilter === 'all'
       ? projects
-      : projects.filter((p) => p.category === activeFilter);
+      : projects.filter((p) => p.category === activeFilter)
+  ).sort((a, b) => b.year - a.year);
 
   return (
     <>
