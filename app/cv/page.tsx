@@ -261,8 +261,8 @@ const residency: CvEntry[] = [
     year: '2020',
     titleKo: '미래 연극: 아트온라인 레지던시',
     titleEn: 'Future Theatre: Artonline Residency',
-    detailKo: '주최 (서울문화재단 지원)',
-    detailEn: 'Organizer (Supported by Seoul Foundation for Arts and Culture)',
+    detailKo: '후원. 서울문화재단',
+    detailEn: 'Supported by Seoul Foundation for Arts and Culture',
   },
   {
     year: '2020',
