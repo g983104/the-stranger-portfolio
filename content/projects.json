@@ -277,7 +277,10 @@
       "galleryImages": [
         "/images/projects/play-bus/01.jpg",
         "/images/projects/play-bus/02.jpg",
-        "/images/projects/play-bus/03.jpg"
+        "/images/projects/play-bus/03.jpg",
+        "/images/projects/play-bus/04.jpg",
+        "/images/projects/play-bus/05.jpg",
+        "/images/projects/play-bus/06.jpg"
       ],
       "youtube": "",
       "tags": ["world wandering", "touring", "mobile theatre", "europe", "6 countries"],
@@ -359,10 +362,14 @@
         "\"Memories of moments, and the transformations they bring — our story begins here.\"",
         "In the course of everyday life, we remember and experience many moments. Some are easily forgotten; others are seared intensely into us. When we confront moments that might simply have passed us by, we change, little by little. From these memories of moments, the story onstage unfolds in a succession of brief scenes. By placing the stories of queer and non-queer lives on stage, the work seeks significant milestones and points of connection within the ordinary lives of each era, casting light on their Aprils. The individual experiences of each person interlock with the 'event' that has become a defining axis of our society, composing the work."
       ],
-      "image": "/images/projects/boundary/cover.jpg",
+      "image": "/images/projects/boundary/cover.jpeg",
       "galleryImages": [
         "/images/projects/boundary/01.jpg",
-        "/images/projects/boundary/02.jpg"
+        "/images/projects/boundary/02.jpeg",
+        "/images/projects/boundary/03.jpeg",
+        "/images/projects/boundary/04.jpeg",
+        "/images/projects/boundary/05.jpeg",
+        "/images/projects/boundary/06.jpeg"
       ],
       "youtube": "",
       "tags": ["memory", "mourning", "collective trauma", "healing"],
@@ -399,10 +406,7 @@
         "Why are they trapped? And what secrets are they keeping from each other?"
       ],
       "image": "/images/projects/capacity/cover.jpg",
-      "galleryImages": [
-        "/images/projects/capacity/01.jpg",
-        "/images/projects/capacity/02.jpg"
-      ],
+      "galleryImages": [],
       "youtube": "",
       "tags": ["queer theatre", "body", "desire", "political theatre"],
       "featured": false,
@@ -442,7 +446,12 @@
       "image": "/images/projects/the-attic/cover.jpg",
       "galleryImages": [
         "/images/projects/the-attic/01.jpg",
-        "/images/projects/the-attic/02.jpg"
+        "/images/projects/the-attic/02.jpg",
+        "/images/projects/the-attic/03.jpg",
+        "/images/projects/the-attic/04.jpg",
+        "/images/projects/the-attic/05.jpg",
+        "/images/projects/the-attic/06.jpg",
+        "/images/projects/the-attic/07.jpg"
       ],
       "youtube": "",
       "tags": ["memory", "space", "debut", "seoul theatre festival", "award"],
