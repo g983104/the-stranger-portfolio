@@ -127,7 +127,7 @@ export default function Navigation() {
             >
               <span
                 className={`block h-px w-6 bg-stone-950 transition-all duration-300 origin-center ${
-                  menuOpen ? 'rotate-45 translate-y-[5px]' : ''
+                  menuOpen ? 'rotate-45 translate-y-[7px]' : ''
                 }`}
               />
               <span
@@ -137,7 +137,7 @@ export default function Navigation() {
               />
               <span
                 className={`block h-px w-6 bg-stone-950 transition-all duration-300 origin-center ${
-                  menuOpen ? '-rotate-45 -translate-y-[5px]' : ''
+                  menuOpen ? '-rotate-45 -translate-y-[7px]' : ''
                 }`}
               />
             </button>

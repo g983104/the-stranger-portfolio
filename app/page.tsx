@@ -141,7 +141,7 @@ export default function HomePage() {
                     value:
                       lang === 'ko'
                         ? '연극 융합 기술 다원 문화기획 축제'
-                        : 'Theatre · Convergence · Tech · Multidisciplinary · Culture',
+                        : 'Theatre · Convergence · Technology · Multidisciplinary Arts · Cultural Planning · Festival',
                   },
                 ].map((item, i) => (
                   <AnimatedSection

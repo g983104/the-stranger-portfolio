@@ -24,7 +24,7 @@ const artTech: CvEntry[] = [
   {
     year: '2023.07',
     titleKo: '경계에 대한 시뮬레이션',
-    titleEn: 'Simulation on the Border',
+    titleEn: 'Simulation of Border',
     detailKo: '빈 프로젝트, 몸소리말조아라 센터',
     detailEn: 'Bin Project, Momsori-mal-joahra Center',
   },

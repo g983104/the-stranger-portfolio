@@ -89,6 +89,23 @@ export default function HeroSection({
       {/* ── Content ───────────────────────────────────────── */}
       <div className="relative z-20 w-full max-w-7xl mx-auto px-8 md:px-14 text-center">
 
+        {/* Director name */}
+        <div
+          style={{
+            opacity: loaded ? 1 : 0,
+            transform: loaded ? 'translateY(0)' : 'translateY(16px)',
+            transition: 'opacity 1.2s ease, transform 1.2s cubic-bezier(0.16, 1, 0.3, 1)',
+            transitionDelay: '0ms',
+          }}
+        >
+          <p
+            className="font-light uppercase text-white/55 tracking-[0.22em] mb-4 select-none"
+            style={{ fontSize: 'clamp(2.2rem, 8vw, 7rem)' }}
+          >
+            HWANG YOUTAEK
+          </p>
+        </div>
+
         {/* Studio name — the centrepiece */}
         <div
           className="hero-line"
@@ -96,12 +113,12 @@ export default function HeroSection({
             opacity: loaded ? 1 : 0,
             transform: loaded ? 'translateY(0)' : 'translateY(32px)',
             transition: 'opacity 1.4s cubic-bezier(0.16, 1, 0.3, 1), transform 1.4s cubic-bezier(0.16, 1, 0.3, 1)',
-            transitionDelay: '0ms',
+            transitionDelay: '200ms',
           }}
         >
           <h1
             className="font-light uppercase text-white leading-none tracking-[0.15em] md:tracking-[0.25em] select-none w-full"
-            style={{ fontSize: 'clamp(2.2rem, 8vw, 7rem)' }}
+            style={{ fontSize: 'clamp(1.4rem, 4vw, 3.2rem)' }}
             aria-label="THE STRANGER"
           >
             THE{'\u00A0'}STRANGER
@@ -183,7 +200,7 @@ export default function HeroSection({
         >
           <Link
             href="/works"
-            className="inline-flex items-center gap-4 text-[11px] tracking-[0.25em] uppercase text-white/55 hover:text-white/90 transition-colors duration-400 group"
+            className="inline-flex items-center gap-4 text-[11px] tracking-[0.25em] uppercase text-white/80 hover:text-white transition-colors duration-400 group"
           >
             <span>{t('home.scrollCta')}</span>
             <span
