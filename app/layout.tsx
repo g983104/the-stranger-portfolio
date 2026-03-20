@@ -150,6 +150,9 @@ export const metadata: Metadata = {
   creator: 'Hwang Youtaek',
   publisher: 'THE STRANGER',
   category: 'Art & Performance',
+  verification: {
+    google: 'q-dWsfNvSRibHz4bDPmWnr__QPzdiQpUY5cBQteD_hk',
+  },
   openGraph: {
     type: 'website',
     locale: 'ko_KR',
