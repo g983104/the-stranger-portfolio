@@ -11,7 +11,7 @@ export function PersonSchema() {
     alternateName: '황유택',
     jobTitle: 'Creative Director / Director',
     description:
-      'Creative Director and Director working across theatre, interdisciplinary performance, art & technology, and cultural projects. Founder of THE STRANGER, an interdisciplinary art collective.',
+      'Hwang Youtaek (황유택) is a Korean theatre director, creative director, and young artist working across theatre, multidisciplinary arts, art & technology, cultural planning, and festival direction. Founder of THE STRANGER arts collective. Active in Korea and internationally.',
     url: BASE_URL,
     sameAs: [
       'https://instagram.com/g983104',
@@ -23,10 +23,14 @@ export function PersonSchema() {
       'Stage Direction',
       'Creative Direction',
       'Interdisciplinary Performance',
+      'Multidisciplinary Arts',
       'Art and Technology',
-      'Cultural Projects',
+      'Cultural Planning',
+      'Festival Direction',
       'Performance Art',
       'Experimental Theatre',
+      'Korean Contemporary Art',
+      'Asian Performance Art',
     ],
     worksFor: {
       '@type': 'Organization',
