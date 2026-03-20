@@ -77,6 +77,7 @@ export default function AboutPage() {
               {/* Milestones */}
               <div className="space-y-4 border-t border-stone-100 pt-6">
                 {[
+                  { year: '2015', label: lang === 'ko' ? '국립극단 연출부' : 'National Theatre Company of Korea — Direction Department' },
                   { year: '2016', label: lang === 'ko' ? '더 스트레인저 창단' : 'THE STRANGER Founded' },
                   { year: '2018', label: lang === 'ko' ? '세계유랑프로젝트 : PLAYBUS(10개국 18도시)' : 'World Wandering Project : PLAYBUS (10 countries, 18 cities)' },
                   { year: '2018', label: lang === 'ko' ? '새들러스 웰스 극장 초청' : 'Invited to Sadler\'s Wells' },
