@@ -134,7 +134,7 @@ export default function HomePage() {
                   },
                   {
                     label: lang === 'ko' ? '국제 초청' : 'International Invitations',
-                    value: lang === 'ko' ? '새들러스 웰스, 에든버러 프린지 외' : "Sadler's Wells, Edinburgh Fringe & more",
+                    value: lang === 'ko' ? '새들러스 웰스, 에든버러 프린지, 멕시코, 일본 외' : "Sadler's Wells, Edinburgh Fringe, Mexico, Japan & more",
                   },
                   {
                     label: lang === 'ko' ? '분야' : 'Practice Areas',
