@@ -81,9 +81,10 @@ export default function AboutPage() {
                   { year: '2018', label: lang === 'ko' ? '세계유랑프로젝트 : PLAYBUS(10개국 18도시)' : 'World Wandering Project : PLAYBUS (10 countries, 18 cities)' },
                   { year: '2018', label: lang === 'ko' ? '새들러스 웰스 극장 초청' : 'Invited to Sadler\'s Wells' },
                   { year: '2019', label: lang === 'ko' ? '멕시코 국립예술학교 특강' : 'National School of Arts, Mexico' },
+                  { year: '2020', label: lang === 'ko' ? 'ARS 아트레지던시 (서울)' : 'ARS Art Residency (Seoul)' },
                   { year: '2021', label: lang === 'ko' ? '서울문화재단 예술청 디렉터 & 운영위원' : 'Seoul Art Platform — Director & Operating Committee Member' },
                   { year: '2024', label: lang === 'ko' ? '런던 그레이너리 스퀘어' : 'Granary Square, London' },
-                  { year: '2024', label: lang === 'ko' ? '미담문화콘텐츠연구소' : 'MIDAM CULTURAL HERITAGE RESEARCH INSTITUTE CORP' },
+                  { year: '2024', label: lang === 'ko' ? '미담문화콘텐츠연구소 크리에이티브 디렉터' : 'MIDAM CULTURAL HERITAGE RESEARCH INSTITUTE CORP — Creative Director' },
                 ].map((item) => (
                   <div key={item.year + item.label} className="flex gap-4 items-baseline">
                     <span className="text-xs tabular-nums text-stone-400 w-10 flex-shrink-0">
