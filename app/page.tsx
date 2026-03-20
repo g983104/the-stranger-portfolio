@@ -140,8 +140,8 @@ export default function HomePage() {
                     label: lang === 'ko' ? '분야' : 'Practice Areas',
                     value:
                       lang === 'ko'
-                        ? '연극  ·  미디어  ·  기술  ·  문화 기획'
-                        : 'Theatre  ·  Media  ·  Tech  ·  Culture',
+                        ? '연극 융합 기술 다원 문화기획 축제'
+                        : 'Theatre · Convergence · Tech · Multidisciplinary · Culture',
                   },
                 ].map((item, i) => (
                   <AnimatedSection
