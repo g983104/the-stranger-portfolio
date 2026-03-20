@@ -43,13 +43,6 @@ const artTech: CvEntry[] = [
     detailEn: 'Platform Pampa',
   },
   {
-    year: '2020.02',
-    titleKo: '만들어진 이야기',
-    titleEn: 'The Story of How It Was Made',
-    detailKo: '갤러리 빈치 — 한국문화예술위원회 예술과 기술 지원 프로그램 선정',
-    detailEn: 'Gallery Vinchi — Selected for Arts Council Korea Art & Tech Support Program',
-  },
-  {
     year: '2019.10',
     titleKo: '#Extrañamente',
     titleEn: '#Extrañamente',
