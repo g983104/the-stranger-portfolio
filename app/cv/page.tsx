@@ -195,8 +195,8 @@ const cultural: CvEntry[] = [
     year: '2020',
     titleKo: '연극의 해 \'전국 청년 연극인 네트워크\' 구축 사업',
     titleEn: 'Year of Theatre \'National Young Theatre Practitioners Network\' Building Project',
-    detailKo: '문화체육관광부 — 협력',
-    detailEn: 'Ministry of Culture, Sports and Tourism — Collaborator',
+    detailKo: '문화체육관광부 — 사업 프로그래머',
+    detailEn: 'Ministry of Culture, Sports and Tourism — Programme Manager',
   },
   {
     year: '2020',
