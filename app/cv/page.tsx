@@ -105,13 +105,6 @@ const research: CvEntry[] = [
 
 const theatre: CvEntry[] = [
   {
-    year: '2020.02',
-    titleKo: '카파시티',
-    titleEn: 'Capacity',
-    detailKo: '제4회 퀴어 연극제, 성북마을극장',
-    detailEn: '4th Queer Theatre Festival, Seongbuk Village Theatre',
-  },
-  {
     year: '2017.06',
     titleKo: '우리의 플랜B',
     titleEn: 'Our PLAN.B',
@@ -160,29 +153,29 @@ const cultural: CvEntry[] = [
     year: '2021',
     titleKo: '서남권 청소년 정책 / 청소년 참여 기구 연구 사업',
     titleEn: 'Southwest Youth Policy / Youth Participation Organization Research Project',
-    detailKo: '서남권NPO지원센터 — 협력',
-    detailEn: 'Southwest NPO Support Center — Collaborator',
+    detailKo: '서남권NPO지원센터 — 연구원',
+    detailEn: 'Southwest NPO Support Center — Researcher',
   },
   {
     year: '2021',
     titleKo: '양천구 청년예술인 지원사업 \'시대교감\'',
     titleEn: 'Yangcheon-gu Young Artists Support Programme \'Sidae Gyogam\'',
-    detailKo: '양천구청 — 주최',
-    detailEn: 'Yangcheon District Office — Organizer',
+    detailKo: '양천구청 — 총괄기획',
+    detailEn: 'Yangcheon District Office — General Planning Director',
   },
   {
     year: '2020–2021',
     titleKo: '제주도 청년예술인 마을 조성사업 \'Ze주청년회관\'',
     titleEn: 'Jeju-do Young Artists Village Development Project \'Ze주청년회관\'',
-    detailKo: '서울시 청소년 사무소 — 주최',
-    detailEn: 'Seoul Metropolitan City Youth Office — Organizer',
+    detailKo: 'Ze주청년회관 — 총괄기획',
+    detailEn: 'Ze주청년회관 — General Planning Director',
   },
   {
     year: '2020',
     titleKo: '서초구 서리풀 Y 페스티벌',
     titleEn: 'Seocho District Seoripul Y Festival',
-    detailKo: '청년예술인 진보적 Y 프로젝트 & 오픈 테이블 — 협력',
-    detailEn: '\'Youth Artist Progressive Y Project & Open Table\' — Collaborator',
+    detailKo: '서초문화재단 — 기획',
+    detailEn: 'Seocho Cultural Foundation — Planning',
   },
   {
     year: '2020',
@@ -207,8 +200,8 @@ const cultural: CvEntry[] = [
   },
   {
     year: '2018.01–12',
-    titleKo: '\'대학로에서 에든버러까지 — 세계 방랑 프로젝트\'',
-    titleEn: '\'From Daehangno to Edinburgh — World Wandering Project\'',
+    titleKo: '세계유랑프로젝트:Play Bus',
+    titleEn: 'World Wandering Project: Play Bus',
     detailKo: '더 스트레인저',
     detailEn: 'THE STRANGER',
   },
