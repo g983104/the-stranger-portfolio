@@ -61,17 +61,17 @@ const research: CvEntry[] = [
   },
   {
     year: '2019.07',
-    titleKo: '안녕, 이방인',
+    titleKo: 'Hello, Stranger',
     titleEn: 'Hello, Stranger',
     detailKo: '더 스트레인저, 인사아트홀',
     detailEn: 'THE STRANGER, Insa Art Hall',
   },
   {
     year: '2019.06',
-    titleKo: '길 위에 서서',
+    titleKo: '길 위에 서다',
     titleEn: 'Standing on the Road',
-    detailKo: '삼일로창고극장 24시간 연극제',
-    detailEn: 'Samilro Changgo Theatre 24-Hour Theatre Festival',
+    detailKo: '삼일로 창고극장',
+    detailEn: 'Samilro Changgo Theatre',
   },
   {
     year: '2018.08',
