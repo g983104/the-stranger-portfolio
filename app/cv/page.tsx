@@ -315,7 +315,7 @@ const other: CvEntry[] = [
   {
     year: '2024–현',
     titleKo: '미담문화콘텐츠연구소',
-    titleEn: 'Midam Creativity Cultural Institute',
+    titleEn: 'MIDAM CULTURAL HERITAGE RESEARCH INSTITUTE CORP',
     detailKo: '크리에이티브디렉터',
     detailEn: 'Creative Director',
   },
