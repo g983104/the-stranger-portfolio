@@ -78,7 +78,7 @@ export default function AboutPage() {
               <div className="space-y-4 border-t border-stone-100 pt-6">
                 {[
                   { year: '2016', label: lang === 'ko' ? '더 스트레인저 창단' : 'THE STRANGER Founded' },
-                  { year: '2018', label: lang === 'ko' ? '세계 방랑 프로젝트 (9개국)' : 'World Wandering Project (9 countries)' },
+                  { year: '2018', label: lang === 'ko' ? '세계유랑프로젝트 : PLAYBUS(10개국 18도시)' : 'World Wandering Project : PLAYBUS (10 countries, 18 cities)' },
                   { year: '2018', label: lang === 'ko' ? '새들러스 웰스 극장 초청' : 'Invited to Sadler\'s Wells' },
                   { year: '2019', label: lang === 'ko' ? '멕시코 국립예술학교 특강' : 'National School of Arts, Mexico' },
                   { year: '2024', label: lang === 'ko' ? '런던 그레이너리 스퀘어' : 'Granary Square, London' },
