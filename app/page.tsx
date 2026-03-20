@@ -126,7 +126,7 @@ export default function HomePage() {
                   },
                   {
                     label: lang === 'ko' ? '순회 국가' : 'Countries Toured',
-                    value: '9+',
+                    value: '12+',
                   },
                   {
                     label: lang === 'ko' ? '순회 도시' : 'Cities Toured',
