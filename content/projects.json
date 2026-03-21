@@ -859,6 +859,42 @@
       "featured": false,
       "gradientFrom": "#100808",
       "gradientTo": "#1a0c0c"
+    },
+    {
+      "id": "20",
+      "slug": "hamlet-15min",
+      "titleKo": "15분 햄릿",
+      "titleEn": "15-Minute Hamlet",
+      "year": 2015,
+      "category": "theatre",
+      "categoryLabelKo": "연극",
+      "categoryLabelEn": "Theatre",
+      "venueKo": "",
+      "venueEn": "",
+      "locationKo": "서울, 대한민국",
+      "locationEn": "Seoul, Republic of Korea",
+      "roleKo": "연출",
+      "roleEn": "Director",
+      "organizer": "낯선사람",
+      "host": "",
+      "sponsor": "",
+      "descriptionKo": [
+        "셰익스피어의 햄릿을 가장 간결하고 유쾌한 방식으로 재창조한 작품. 제 5회 청춘 프린지 페스티벌 최우수 작품상 수상.",
+        "어렵고 뻔한 고전극에서 탈피하여 현대의 옷을 입는 햄릿. 유창함보다 간결함을, 처절함보다 유쾌함을 선택했다. 과연 지금을 사는 우리에게 햄릿은 무엇이고 비극은 무엇으로 다가오는가.",
+        "셰익스피어가 직접 등장해 관습을 깨는 것이 오히려 그것을 존중하는 셈이라 말하며 햄릿의 이야기 속으로 빨려 들어간다."
+      ],
+      "descriptionEn": [
+        "A radical reimagining of Shakespeare's Hamlet — distilled to its essence, stripped of solemnity, and reborn in a contemporary register. Winner of Best Work at the 5th Youth Fringe Festival (2015).",
+        "Rejecting the conventions of classical theatre, this production chose brevity over eloquence, playfulness over tragedy. What is Hamlet to those living now, and what form does its tragedy take?",
+        "Shakespeare himself steps onto the stage, declaring that to break convention is to honour it — and is drawn into the story of Hamlet."
+      ],
+      "image": "",
+      "galleryImages": [],
+      "youtube": "",
+      "tags": ["shakespeare", "hamlet", "classical", "reinterpretation", "youth"],
+      "featured": false,
+      "gradientFrom": "#0a0a14",
+      "gradientTo": "#14100a"
     }
   ]
 }
