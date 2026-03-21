@@ -888,8 +888,16 @@
         "Rejecting the conventions of classical theatre, this production chose brevity over eloquence, playfulness over tragedy. What is Hamlet to those living now, and what form does its tragedy take?",
         "Shakespeare himself steps onto the stage, declaring that to break convention is to honour it — and is drawn into the story of Hamlet."
       ],
-      "image": "",
-      "galleryImages": [],
+      "image": "/images/projects/hamlet-15min/cover.png",
+      "galleryImages": [
+        "/images/projects/hamlet-15min/01.png",
+        "/images/projects/hamlet-15min/02.png",
+        "/images/projects/hamlet-15min/03.png",
+        "/images/projects/hamlet-15min/04.png",
+        "/images/projects/hamlet-15min/05.png",
+        "/images/projects/hamlet-15min/06.png",
+        "/images/projects/hamlet-15min/07.png"
+      ],
       "youtube": "",
       "tags": ["shakespeare", "hamlet", "classical", "reinterpretation", "youth"],
       "featured": false,
