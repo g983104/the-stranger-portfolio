@@ -43,13 +43,14 @@ body {
 }
 
 /* ─── Scroll Animation Classes ──────────────────────────── */
-.animate-on-scroll {
+/* JS가 로드된 환경에서만 opacity:0 적용 (봇/크롤러는 항상 콘텐츠 노출) */
+.js .animate-on-scroll {
   opacity: 0;
   transform: translateY(28px);
   transition: opacity 0.8s ease, transform 0.8s ease;
 }
 
-.animate-on-scroll.in-view {
+.js .animate-on-scroll.in-view {
   opacity: 1;
   transform: translateY(0);
 }

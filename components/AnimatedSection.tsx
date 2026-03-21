@@ -1,7 +1,6 @@
 'use client';
 
 import { useInView } from '@/hooks/useInView';
-import { useEffect, useState } from 'react';
 
 interface AnimatedSectionProps {
   children: React.ReactNode;
@@ -19,20 +18,6 @@ export default function AnimatedSection({
   as: Tag = 'div',
 }: AnimatedSectionProps) {
   const { ref, isInView } = useInView(threshold);
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
-
-  // SSR / 봇 환경: in-view 클래스를 기본으로 적용해 콘텐츠 노출
-  if (!mounted) {
-    return (
-      <Tag className={`animate-on-scroll in-view ${className}`}>
-        {children}
-      </Tag>
-    );
-  }
 
   return (
     <Tag

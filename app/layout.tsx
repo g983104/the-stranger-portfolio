@@ -201,6 +201,8 @@ export default function RootLayout({
         {/* JSON-LD Structured Data */}
         <PersonSchema />
         <WebSiteSchema />
+        {/* JS 로드 시 'js' 클래스 추가 → 스크롤 애니메이션 활성화 (봇은 미적용) */}
+        <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
       </head>
       <body className="font-sans bg-stone-50 text-stone-950 antialiased">
         <Providers>{children}</Providers>
